@@ -3,21 +3,29 @@ using BLL.Security; // Para PasswordHasher
 using BLL.Exceptions;
 using Service.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
+using Common.Interfaces;
 
 namespace Service.Controllers
 {
     public class LoginController : ApiController
     {
+        private readonly IEmailService _emailService;
+        public LoginController()
+        {
+            _emailService = new EmailService(); // Inicialización manual
+        }
+
         [HttpPost]
         [Route("login")]
-        public IHttpActionResult Login([FromBody] LoginRequest loginRequest)
+        public async Task<IHttpActionResult> Login([FromBody] LoginRequest loginRequest)
         {
             var BL = new Users();
+            string recipientEmail = loginRequest.Email;
+            string subject = "Inicio de sesión fallido";
+            string body = $"Se registró un inicio de sesión fallido.";
 
             try
             {
@@ -35,16 +43,33 @@ namespace Service.Controllers
                     Message = "Login exitoso"
                 });
             }
-            catch (BLL.Exceptions.UnauthorizedAccessException ex) // Excepción específica de la BLL
+            catch (BLL.Exceptions.UnauthorizedAccessException ex) // Contraseña incorrecta
             {
+                try
+                {
+                    await _emailService.SendEmailAsync(recipientEmail, subject, body);
+                }
+                catch (Exception emailEx)
+                {
+                    // Log de error al enviar el correo, para evitar que falle el flujo
+                    Console.WriteLine($"Error al enviar el correo: {emailEx.Message}");
+                }
+
                 return Content(HttpStatusCode.Unauthorized, new { Message = ex.Message });
             }
-            catch (Exception ex) // Capturar cualquier otro error
+            catch (Exception ex) // Otros errores
             {
+                try
+                {
+                    await _emailService.SendEmailAsync(recipientEmail, subject, body);
+                }
+                catch (Exception emailEx)
+                {
+                    Console.WriteLine($"Error al enviar el correo: {emailEx.Message}");
+                }
+
                 return InternalServerError(ex);
             }
         }
-
-
     }
 }
