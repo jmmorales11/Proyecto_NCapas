@@ -15,6 +15,7 @@ namespace Service.Controllers
     {
         [HttpPost]
         [Route("login")]
+        [AllowAnonymous]
         public IHttpActionResult Login([FromBody] LoginRequest loginRequest)
         {
             var BL = new Users();
