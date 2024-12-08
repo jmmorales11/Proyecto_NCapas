@@ -23,6 +23,7 @@ namespace Service.Controllers
 
         [HttpPost]
         [Route("create-category")]
+        [Authorize(Roles = "Admin,Editor")]
         public Category CreateCategory(Category newCategory)
         {
             var BL = new Categories();
@@ -31,6 +32,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         [Route("delete-category/{id}")]
         public bool DeleteCategory(int id)
         {
@@ -40,6 +42,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("filter-category")]
         public List<Category> GetCategory()
         {
@@ -49,6 +52,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("retrieve-category/{id}")]
         public Category RetrieveCategoryByID(int id)
         {
@@ -58,6 +62,7 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin,Editor")]
         [Route("update-category")]
         public bool UpdateCategory(Category CategoryToUpdate)
         {
