@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace BLL
 {
@@ -20,6 +21,12 @@ namespace BLL
                 User res = r.Retrieve<User>(u => u.Email == newUser.Email);
                 if (res == null)
                 {
+                    // Validar la contraseña
+                    if (!ValidatePassword(newUser, newUser.PasswordHash))
+                    {
+                        throw new Exception("La contraseña no cumple con los requisitos de seguridad.");
+                    }
+
                     // Hashear la contraseña antes de guardar el usuario
                     newUser.PasswordHash = PasswordHasher.HashPassword(newUser.PasswordHash);
 
@@ -113,6 +120,35 @@ namespace BLL
 
                 return user; // Usuario autenticado correctamente
             }
+        }
+
+        private bool ValidatePassword(User user, string password)
+        {
+            // Verificar longitud mínima
+            if (password.Length < 13)
+                return false;
+
+            // Verificar que contenga al menos un carácter especial
+            if (!Regex.IsMatch(password, @"[!@#$%^&*(),.?\:{ }|<>]"))
+                return false;
+
+            // Verificar que no contenga partes del nombre de usuario o correo electrónico
+            var userNameParts = user.UserName.Split(new char[] { ' ', '.', '_', '-' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (var part in userNameParts)
+            {
+                if (password.Contains(part))
+                    return false;
+            }
+
+            // Verificar que no contenga partes del correo electrónico
+            var emailParts = user.Email.Split(new char[] { '@', '.', '_', '-' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (var part in emailParts)
+            {
+                if (password.Contains(part))
+                    return false;
+            }
+
+            return true;
         }
 
 
