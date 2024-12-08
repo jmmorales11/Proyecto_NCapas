@@ -1,0 +1,94 @@
+﻿@model Entities.Category
+
+@{
+    ViewBag.Title = "Confirmar eliminación";
+}
+
+<div class="form-container">
+    <h2>¿Estás seguro de que deseas eliminar la categoría?</h2>
+
+    <p><strong>ID:</strong> @Model.CategoryID</p>
+    <p><strong>Nombre:</strong> @Model.CategoryName</p>
+    <p><strong>Descripción:</strong> @Model.Description</p>
+
+    @using (Html.BeginForm("DeleteConfirmed", "Category", new { id = Model.CategoryID }, FormMethod.Get))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-buttons">
+            <button type="submit" class="btn minimal-btn btn-danger">Eliminar</button>
+            <a href="@Url.Action("List", "Category")" class="btn minimal-btn btn-secondary">Cancelar</a>
+        </div>
+    }
+</div>
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+        height: 100vh; /* Hacer que la altura del cuerpo ocupe toda la pantalla */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px; /* Limitar el ancho máximo del formulario */
+        text-align: center;
+    }
+
+    h2 {
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 16px;
+        color: #555;
+        margin: 5px 0;
+    }
+
+    .form-buttons {
+        margin-top: 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+        text-decoration: none;
+        display: inline-block;
+        transition: background-color 0.3s ease;
+    }
+
+    .minimal-btn {
+        margin-right: 10px;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: white;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+</style>
