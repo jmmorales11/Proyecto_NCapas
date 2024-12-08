@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\asus tuf a15\\downloads\\borrador\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyecto.mvcpls\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|c:\\users\\asus tuf a15\\downloads\\borrador\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|c:\\users\\asus tuf a15\\downloads\\borrador\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|solutionrelative:proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,38 +73,51 @@
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T09:10:42.072Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Proxy.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
-              "RelativeDocumentMoniker": "ProyectoProxyService\\Proxy.cs",
-              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
-              "RelativeToolTip": "ProyectoProxyService\\Proxy.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Service\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:15:06.983Z",
+              "WhenOpened": "2024-12-08T06:49:39.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Service\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwDsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wCUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T07:24:26.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\UserController.cs",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\DLL\\Users.cs",
               "RelativeDocumentMoniker": "DLL\\Users.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.Config",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\DAL\\App.Config",
               "RelativeDocumentMoniker": "DAL\\App.Config",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Web.config",
               "RelativeDocumentMoniker": "Service\\Web.config",
@@ -149,7 +166,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
+              "RelativeDocumentMoniker": "ProyectoProxyService\\Proxy.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
+              "RelativeToolTip": "ProyectoProxyService\\Proxy.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:15:06.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\EmailService.cs",
               "RelativeDocumentMoniker": "Service\\EmailService.cs",
@@ -161,19 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Service\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Service\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwD0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T06:49:39.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Common\\IEmailService.cs",
               "RelativeDocumentMoniker": "Common\\IEmailService.cs",

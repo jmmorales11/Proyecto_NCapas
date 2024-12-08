@@ -25,13 +25,18 @@ namespace Service.Controllers
             var BL = new Users();
             string recipientEmail = loginRequest.Email;
             string subject = "Inicio de sesión fallido";
+            string subject1 = "Inicio de sesión";
             string body = $"Se registró un inicio de sesión fallido.";
+
 
             try
             {
                 // Autenticar al usuario
                 var user = BL.Authenticate(loginRequest.Email, loginRequest.Password);
-
+                var random = new Random();
+                string verificationCode = random.Next(1000, 9999).ToString();
+                string body1 = $"Se registró un inicio de sesión. Tu código de verificación es: {verificationCode}";
+                await _emailService.SendEmailAsync(recipientEmail, subject1, body1);
                 // Generar el token JWT
                 var token = JwtService.GenerateToken(user.Email, user.Role);
 
@@ -42,6 +47,7 @@ namespace Service.Controllers
                     Role = user.Role,
                     Message = "Login exitoso"
                 });
+                
             }
             catch (BLL.Exceptions.UnauthorizedAccessException ex) // Contraseña incorrecta
             {
