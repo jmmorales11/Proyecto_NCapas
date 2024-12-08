@@ -19,6 +19,9 @@ namespace Service
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            // Configuración de autorización basada en roles
+            config.Filters.Add(new AuthorizeAttribute());
         }
     }
 }
