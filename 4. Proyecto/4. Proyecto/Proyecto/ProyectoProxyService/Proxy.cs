@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoProxyService
 {
-    public class Proxy : IProduct
+    public class Proxy : IProduct, ICategory, IUser
     {
         string BaseAddress = "https://localhost:44396";
 
@@ -64,7 +64,7 @@ namespace ProyectoProxyService
 
 
 
-        //Crear producto
+        //Product
         public Product CreateProduct(Product newProduct)
         {
             return Task.Run(async () => await SendPost<Product, Product>("/product/create-product", newProduct)).Result;
@@ -95,5 +95,79 @@ namespace ProyectoProxyService
         {
             return Task.Run(async () => await SendGet<List<Product>>("/product/filter")).Result;
         }
+
+
+
+        // Categorías
+        public Category CreateCategory(Category newCategory)
+        {
+            return Task.Run(async () => await SendPost<Category, Category>("/category/create-category", newCategory)).Result;
+        }
+
+        public Category RetrieveCategoryByID(int ID)
+        {
+            return Task.Run(async () => await SendGet<Category>($"/category/retrieve-category/{ID}")).Result;
+        }
+
+        public bool UpdateCategory(Category CategoryToUpdate)
+        {
+            return Task.Run(async () => await SendPost<bool, Category>("/category/update-category", CategoryToUpdate)).Result;
+        }
+
+        public bool DeleteCategory(int ID)
+        {
+            return Task.Run(async () => await SendGet<bool>($"/category/delete-category/{ID}")).Result;
+        }
+
+        public List<Category> GetCategory()
+        {
+            return Task.Run(async () => await SendGet<List<Category>>("/category/filter-category")).Result;
+        }
+
+
+
+        // Usuarios
+        public User CreateUser(User newUser)
+        {
+            return Task.Run(async () => await SendPost<User, User>("/user/create-user", newUser)).Result;
+        }
+
+        public User RetrieveUserByID(int ID)
+        {
+            return Task.Run(async () => await SendGet<User>($"/user/retrieve-user/{ID}")).Result;
+        }
+
+        public bool UpdateUser(User UserToUpdate)
+        {
+            return Task.Run(async () => await SendPost<bool, User>("/user/update-user", UserToUpdate)).Result;
+        }
+
+        public bool DeleteUser(int ID)
+        {
+            return Task.Run(async () => await SendGet<bool>($"/user/delete-user/{ID}")).Result;
+        }
+
+        public List<User> GetUsers()
+        {
+            return Task.Run(async () => await SendGet<List<User>>("/user/filter-user")).Result;
+        }
+
+
+        //Login
+
+        public string Login(string email, string password)
+        {
+            var loginRequest = new
+            {
+                Email = email,
+                Password = password
+            };
+
+            return Task.Run(async () =>
+                await SendPost<string, object>("/login", loginRequest)
+            ).Result;
+        }
+
+
     }
 }

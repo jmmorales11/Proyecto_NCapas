@@ -1,22 +1,128 @@
-﻿
-@{
+﻿@{
     Layout = null;
 }
 
 <!DOCTYPE html>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
+    <title>Inicio</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        h1 {
+            text-align: center;
+            color: #0056b3;
+        }
+
+        /* Estilos para el navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #0056b3;
+            color: white;
+            padding: 10px 20px;
+            position: fixed; /* Fija el navbar en la parte superior */
+            top: 0;
+            left: 0;
+            right: 0; /* Asegura que ocupe todo el ancho de la página */
+            z-index: 1000; /* Asegura que el navbar esté por encima del contenido */
+            box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+        }
+
+            .navbar h1 {
+                margin: 0;
+            }
+
+        .login-btn {
+            background-color: white;
+            color: #0056b3;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+            .login-btn:hover {
+                background-color: #f0f0f0;
+            }
+
+        /* Estilos para la lista */
+        ul {
+            display: flex;
+            justify-content: center;
+            list-style-type: none;
+            padding: 0;
+            margin: 50px 0;
+            width: 100%;
+            gap: 20px;
+        }
+
+        li {
+            width: 200px;
+        }
+
+            li a {
+                display: block;
+                text-decoration: none;
+                color: #333;
+                background-color: #e0e0e0;
+                padding: 20px;
+                text-align: center;
+                border-radius: 10px;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                font-size: 16px;
+                font-weight: bold;
+                transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            }
+
+                li a:hover {
+                    background-color: #d6d6d6;
+                    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+                }
+
+        /* Centrar el contenido de la página */
+        .content-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            width: 100%;
+            margin-top: 80px; /* Agrega espacio debajo del navbar fijo */
+        }
+    </style>
 </head>
 <body>
-    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
-    {
-        <label for="categoryId">ID de Categoría:</label>
-        <input type="number" id="categoryId" name="id" required />
-        <button type="submit">Filtrar Productos</button>
-    }
+    <!-- Navbar -->
+    <div class="navbar">
+        <h1>Sistema Empresarial</h1>
+        <button class="login-btn">Login</button>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content-wrapper">
+        <h1>Gestión de Sistema</h1>
+        <ul>
+            <li><a href="@Url.Action("Index", "Product")">Gestionar Productos</a></li>
+            <li><a href="@Url.Action("List", "Category")">Gestionar Categorías</a></li>
+            <li><a href="@Url.Action("Index", "User")">Gestionar Usuarios</a></li>
+        </ul>
+    </div>
 
 </body>
 </html>
