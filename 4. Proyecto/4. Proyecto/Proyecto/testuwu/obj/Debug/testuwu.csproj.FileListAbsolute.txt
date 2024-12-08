@@ -1,0 +1,32 @@
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.exe.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.exe
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\ProyectoProxyService.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\SLC.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\Newtonsoft.Json.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\Entities.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\ProyectoProxyService.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\SLC.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\bin\Debug\Newtonsoft.Json.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.AssemblyReference.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.CoreCompileInputs.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.Up2Date
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.exe
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.exe.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.exe
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Entities.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\ProyectoProxyService.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\SLC.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Entities.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\ProyectoProxyService.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\SLC.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.Up2Date
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.exe
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.pdb

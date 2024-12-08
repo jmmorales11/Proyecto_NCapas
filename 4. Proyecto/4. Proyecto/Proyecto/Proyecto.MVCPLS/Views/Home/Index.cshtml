@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+        <label for="categoryId">ID de Categoría:</label>
+        <input type="number" id="categoryId" name="id" required />
+        <button type="submit">Filtrar Productos</button>
+    }
+
+</body>
+</html>

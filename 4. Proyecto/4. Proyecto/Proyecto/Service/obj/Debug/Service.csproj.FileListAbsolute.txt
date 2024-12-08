@@ -1,0 +1,367 @@
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Service.dll.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Service.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Service.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\csc.exe
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\csc.exe.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\csc.rsp
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\csi.exe
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\csi.exe.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\csi.rsp
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.AppContext.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Collections.Immutable.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Console.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Globalization.Calendars.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.Compression.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.FileSystem.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Net.Http.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Net.Sockets.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Reflection.Metadata.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.ValueTuple.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XPath.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.exe
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.exe.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.rsp
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\VBCSCompiler.exe
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\roslyn\VBCSCompiler.exe.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\DLL.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Newtonsoft.Json.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\SLC.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\System.Net.Http.Formatting.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\System.Web.Http.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\System.Web.Http.WebHost.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\DAL.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\EntityFramework.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\DLL.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Entities.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\SLC.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Newtonsoft.Json.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\System.Net.Http.Formatting.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\System.Web.Http.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\System.Web.Http.WebHost.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\DAL.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\DAL.dll.config
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\EntityFramework.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\es\System.Net.Http.Formatting.resources.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\es\System.Web.Http.resources.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\es\System.Web.Http.WebHost.resources.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.Up2Date
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\obj\Debug\Service.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\obj\Debug\Service.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\EntityFramework.SqlServer.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Service.dll.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Service.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Service.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csc.exe
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csc.exe.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csc.rsp
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csi.exe
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csi.exe.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csi.rsp
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.AppContext.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Console.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.exe
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.exe.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.rsp
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Antlr3.Runtime.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DLL.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Entities.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Newtonsoft.Json.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\SLC.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Helpers.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Mvc.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Optimization.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Razor.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\WebGrease.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DAL.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\BCrypt.Net-Next.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Memory.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Json.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Buffers.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Encodings.Web.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Numerics.Vectors.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.ValueTuple.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DLL.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DLL.dll.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Entities.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\SLC.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Antlr3.Runtime.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Helpers.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Mvc.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Optimization.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Razor.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Newtonsoft.Json.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DAL.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DAL.dll.config
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\BCrypt.Net-Next.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Memory.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Json.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Buffers.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Encodings.Web.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Numerics.Vectors.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.ValueTuple.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Helpers.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Mvc.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Razor.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.WebPages.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.pdb
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Common.dll
+C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Common.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Service.dll.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Service.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Service.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csc.exe
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csc.exe.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csc.rsp
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csi.exe
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csi.exe.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\csi.rsp
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Console.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.exe
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.exe.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\vbc.rsp
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Antlr3.Runtime.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Common.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DLL.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Newtonsoft.Json.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\SLC.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Helpers.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Mvc.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Optimization.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Razor.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\WebGrease.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DAL.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\BCrypt.Net-Next.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Memory.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Json.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Buffers.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Encodings.Web.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Numerics.Vectors.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.ValueTuple.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Common.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DLL.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DLL.dll.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\SLC.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Helpers.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Mvc.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Optimization.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Razor.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Newtonsoft.Json.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DAL.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\DAL.dll.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\BCrypt.Net-Next.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Memory.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Json.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Buffers.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Text.Encodings.Web.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Numerics.Vectors.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\System.ValueTuple.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Razor.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.pdb
