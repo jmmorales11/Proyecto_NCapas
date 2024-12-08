@@ -45,6 +45,21 @@ namespace Service.Controllers
         {
             var BL = new Categories();
             var result = BL.GetAllCategories();
+            // Enviar un correo después de obtener los usuarios
+            string recipientEmail = "jmmorales11@espe.edu.ec"; // Reemplaza con el correo del destinatario
+            string subject = "Listado de Usuarios";
+            string body = $"Se ha solicitado el listado de usuarios. Total de usuarios: {result.Count}.";
+
+            // Llama al servicio de correo electrónico
+            try
+            {
+                _emailService.SendEmailAsync(recipientEmail, subject, body).Wait();
+            }
+            catch (Exception ex)
+            {
+                // Manejo de errores si el envío falla
+                Console.WriteLine($"Error al enviar el correo: {ex.Message}");
+            }
             return result;
         }
 
