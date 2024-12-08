@@ -14,6 +14,7 @@ namespace Service.Controllers
     public class ProductController : ApiController, IProduct
     {
         [HttpPost]
+        [Authorize(Roles = "Admin,Editor")]
         [Route("create-product")] 
         public Product CreateProduct(Product newProduct)
         {
@@ -23,6 +24,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         [Route("delete-product/{id}")]
         public bool DeleteProduct(int id)
         {
@@ -33,6 +35,7 @@ namespace Service.Controllers
 
         //obtiene todos los productos de la categoria seleccionada
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("filter-product/{id}")]
         public List<Product> FilterProductsByCategoryID(int id)
         {
@@ -42,6 +45,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("filter")]
         public List<Product> GetProducts()
         {
@@ -51,6 +55,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("retrieve/{id}")]
         public Product RetrieveProductByID(int id)
         {
@@ -60,6 +65,7 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin,Editor")]
         [Route("update-product")]
         public bool UpdateProduct(Product productToUpdate)
         {
