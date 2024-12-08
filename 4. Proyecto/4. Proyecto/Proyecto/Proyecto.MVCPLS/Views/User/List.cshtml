@@ -1,0 +1,212 @@
+﻿@model List<Entities.User>
+
+@{
+    ViewBag.Title = "Lista de Usuarios";
+}
+
+<h2>Lista de Usuarios</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <div class="centered-message success">
+        @ViewBag.SuccessMessage
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="centered-message error">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <div class="content-wrapper">
+        <ul>
+            <li>
+                <!-- Estilo de botón con sombra -->
+                <a href="@Url.Action("Index", "Home")" class="button-link">Volver</a>
+            </li>
+            <li style="text-align: right;">
+                <!-- Botón de crear usuario -->
+                <a href="@Url.Action("Create", "User")" class="button-link create-btn">Crear usuario</a>
+            </li>
+        </ul>
+    </div>
+
+    <table class="minimalist-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre de Usuario</th>
+                <th>Email</th>
+                <th>Rol</th>
+                <th>Estado</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.UserID</td>
+                    <td>@user.UserName</td>
+                    <td>@user.Email</td>
+                    <td>@user.Role</td>
+                    <td>@(user.Status ? "Activo" : "Inactivo")</td>
+                    <td>
+                        <!-- Botones de acciones -->
+                        <a href="@Url.Action("Edit", "User", new { id = user.UserID })" class="action-btn edit-btn">Editar</a>
+                        |
+                        <a href="@Url.Action("Delete", "User", new { id = user.UserID })" class="action-btn delete-btn">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay usuarios disponibles.</p>
+}
+
+<!-- Estilos Minimalistas -->
+<style>
+    /* General */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        color: #333;
+    }
+
+    h2 {
+        color: #555;
+    }
+
+    /* Tabla */
+    .minimalist-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+        .minimalist-table th,
+        .minimalist-table td {
+            padding: 12px 15px;
+            text-align: left;
+        }
+
+        .minimalist-table thead {
+            background-color: #f7f7f7;
+        }
+
+        .minimalist-table th {
+            font-size: 14px;
+            font-weight: bold;
+            color: #555;
+        }
+
+        .minimalist-table tbody tr {
+            border-bottom: 1px solid #ddd;
+        }
+
+            .minimalist-table tbody tr:hover {
+                background-color: #f1f1f1;
+            }
+
+        .minimalist-table td a {
+            color: black;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+            .minimalist-table td a:hover {
+                text-decoration: underline;
+            }
+
+    /* Contenedor del botón de creación */
+    .content-wrapper {
+        margin-bottom: 20px;
+    }
+
+    .button-link {
+        display: inline-block;
+        background-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-size: 14px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s, box-shadow 0.3s;
+    }
+
+        .button-link:hover {
+            background-color: #0056b3;
+            box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+        }
+
+    .create-btn {
+        background-color: #28a745;
+    }
+
+        .create-btn:hover {
+            background-color: #218838;
+        }
+
+    /* Botones de acción */
+    .action-btn {
+        padding: 6px 12px;
+        font-size: 14px;
+        border-radius: 5px;
+        text-decoration: none;
+        display: inline-block;
+        margin: 0 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .edit-btn {
+        background-color: #28a745;
+        color: white;
+    }
+
+        .edit-btn:hover {
+            background-color: #218838;
+        }
+
+    .delete-btn {
+        background-color: #dc3545;
+        color: white;
+    }
+
+        .delete-btn:hover {
+            background-color: #c82333;
+        }
+
+    /* Estilo general para mensajes */
+    .centered-message {
+        max-width: 400px; /* Ancho máximo del mensaje */
+        margin: 0 auto; /* Centrar horizontalmente */
+        padding: 15px 20px;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 20px; /* Espaciado inferior */
+    }
+
+        /* Estilo para mensajes de éxito */
+        .centered-message.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        /* Estilo para mensajes de error */
+        .centered-message.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+</style>

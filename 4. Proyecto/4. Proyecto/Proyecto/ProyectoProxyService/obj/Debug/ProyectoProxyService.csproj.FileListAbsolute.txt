@@ -24,3 +24,16 @@ C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyServic
 C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
 C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
 C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\SLC.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Entities.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\SLC.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.xml
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.AssemblyReference.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.CoreCompileInputs.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb
