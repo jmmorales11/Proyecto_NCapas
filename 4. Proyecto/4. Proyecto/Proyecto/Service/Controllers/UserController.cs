@@ -14,7 +14,9 @@ namespace Service.Controllers
     public class UserController : ApiController, IUser
     {
         [HttpPost]
+        [Authorize(Roles = "Admin,Editor")]
         [Route("create-user")]
+        [AllowAnonymous]
         public User CreateUser(User newUser)
         {
             var BL = new Users();
@@ -23,6 +25,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         [Route("delete-user/{id}")]
         public bool DeleteUser(int id)
         {
@@ -32,6 +35,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("filter-user")]
         public List<User> GetUsers()
         {
@@ -45,6 +49,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         [Route("retrieve-user/{id}")]
         public User RetrieveUserByID(int id)
         {
@@ -54,6 +59,7 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin,Editor")]
         [Route("update-user")]
         public bool UpdateUser(User UserToUpdate)
         {

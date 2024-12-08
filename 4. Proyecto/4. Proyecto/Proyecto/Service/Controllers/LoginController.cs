@@ -15,6 +15,7 @@ namespace Service.Controllers
     {
         [HttpPost]
         [Route("login")]
+        [AllowAnonymous]
         public IHttpActionResult Login([FromBody] LoginRequest loginRequest)
         {
             var BL = new Users();
@@ -44,7 +45,6 @@ namespace Service.Controllers
                 return InternalServerError(ex);
             }
         }
-
 
     }
 }

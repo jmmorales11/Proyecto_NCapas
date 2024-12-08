@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DLL\BLL.csproj">
+      <Project>{8333a6fd-0531-4428-90b3-577b8cf54b7a}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Entities\Entities.csproj">
       <Project>{067360f1-31ec-4027-a302-b009424b562c}</Project>
       <Name>Entities</Name>
