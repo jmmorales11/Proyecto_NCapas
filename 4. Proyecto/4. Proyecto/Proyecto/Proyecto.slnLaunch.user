@@ -5,6 +5,10 @@
       {
         "Path": "Service\\Service.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj",
+        "Action": "Start"
       }
     ]
   }

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|solutionrelative:proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|solutionrelative:dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\slc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\slc\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ncapas\\4. proyecto\\4. proyecto\\proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,80 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Proxy.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
-              "RelativeDocumentMoniker": "ProyectoProxyService\\Proxy.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs*",
-              "RelativeToolTip": "ProyectoProxyService\\Proxy.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:53:02.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICategory.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\SLC\\ICategory.cs",
-              "RelativeDocumentMoniker": "SLC\\ICategory.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\SLC\\ICategory.cs",
-              "RelativeToolTip": "SLC\\ICategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:52:15.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\DLL\\Users.cs",
-              "RelativeDocumentMoniker": "DLL\\Users.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\DLL\\Users.cs",
-              "RelativeToolTip": "DLL\\Users.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:47:45.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Service\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Service\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:46:37.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\SLC\\IUser.cs",
-              "RelativeDocumentMoniker": "SLC\\IUser.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\SLC\\IUser.cs",
-              "RelativeToolTip": "SLC\\IUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:45:57.499Z",
+              "WhenOpened": "2024-12-08T09:11:23.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Service\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Service\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAqwJ0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:45:54.713Z",
+              "WhenOpened": "2024-12-08T09:03:07.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:49:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_NCapas\\4. Proyecto\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T08:47:17.158Z",
               "EditorCaption": ""
             }
           ]
