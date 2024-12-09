@@ -24,6 +24,7 @@ namespace Service.Controllers
         [HttpPost]
         [Route("create-category")]
         [Authorize(Roles = "Admin,Editor")]
+        [AllowAnonymous]
         public Category CreateCategory(Category newCategory)
         {
             var BL = new Categories();
@@ -44,6 +45,7 @@ namespace Service.Controllers
         [HttpGet]
         [Authorize(Roles = "Admin, Viewer")]
         [Route("filter-category")]
+        [AllowAnonymous]
         public List<Category> GetCategory()
         {
             var BL = new Categories();

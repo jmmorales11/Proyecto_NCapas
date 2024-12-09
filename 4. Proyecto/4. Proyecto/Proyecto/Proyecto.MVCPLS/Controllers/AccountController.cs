@@ -19,10 +19,9 @@ namespace Proyecto.MVCPLS.Controllers
         public ActionResult Login(string email, string password)
         {
             var proxy = new Proxy();
-
             try
             {
-                System.Diagnostics.Debug.WriteLine("Inicio de sesión iniciado."); // Mensaje inicial
+                System.Diagnostics.Debug.WriteLine("Inicio de sesión iniciado."); // Log inicial
                 System.Diagnostics.Debug.WriteLine($"Email recibido: {email}");
 
                 var token = proxy.Login(email, password);
@@ -33,10 +32,12 @@ namespace Proyecto.MVCPLS.Controllers
                     Session["JWTToken"] = token;
                     System.Diagnostics.Debug.WriteLine("Login exitoso. Token recibido y almacenado en la sesión.");
 
+                    ViewBag.SuccessMessage = "Inicio de sesión exitoso.";
                     return RedirectToAction("Index", "Home");
                 }
                 else
                 {
+                    // Manejo de error si el token es nulo o vacío
                     ViewBag.ErrorMessage = "Credenciales inválidas. Por favor, intente nuevamente.";
                     System.Diagnostics.Debug.WriteLine("Credenciales inválidas. Token no recibido.");
                     return View();
@@ -49,6 +50,7 @@ namespace Proyecto.MVCPLS.Controllers
                 return View();
             }
         }
+
 
 
 
