@@ -69,40 +69,10 @@
             border-radius: 8px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         }
-
-        /* Contenedor del botón de creación */
-        .content-wrapper {
-            margin-bottom: 20px;
-        }
-
-        .button-link {
-            display: inline-block;
-            background-color: #007bff;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            font-size: 14px;
-            border-radius: 5px;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-            transition: background-color 0.3s, box-shadow 0.3s;
-        }
-
-            .button-link:hover {
-                background-color: #0056b3;
-                box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
-            }
     </style>
 </head>
 <body>
     <h2>Lista de Productos</h2>
-    <div class="content-wrapper">
-        <ul>
-            <li>
-                <!-- Estilo de botón con sombra -->
-                <a href="@Url.Action("Index", "Category")" class="button-link">Volver</a>
-            </li>
-        </ul>
-    </div>
 
     <div class="table-wrapper">
         <table>

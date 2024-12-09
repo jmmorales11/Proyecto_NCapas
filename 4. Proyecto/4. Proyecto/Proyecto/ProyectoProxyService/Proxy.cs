@@ -83,7 +83,7 @@ namespace ProyectoProxyService
 
         public bool DeleteProduct(int ID)
         {
-            return Task.Run(async () => await SendGet<bool>($"/product/delete-product/{ID}")).Result;
+            return Task.Run(async () => await SendPost<bool, int>("/product/delete-product", ID)).Result;
         }
 
         public List<Product> FilterProductsByCategoryID(int ID)
@@ -151,7 +151,10 @@ namespace ProyectoProxyService
         {
             return Task.Run(async () => await SendGet<List<User>>("/user/filter-user")).Result;
         }
+
+
         //Login
+
         public string Login(string email, string password)
         {
             var loginRequest = new
@@ -162,8 +165,9 @@ namespace ProyectoProxyService
 
             return Task.Run(async () =>
                 await SendPost<string, object>("/login", loginRequest)
-        ).Result;
+            ).Result;
         }
+
 
     }
 }

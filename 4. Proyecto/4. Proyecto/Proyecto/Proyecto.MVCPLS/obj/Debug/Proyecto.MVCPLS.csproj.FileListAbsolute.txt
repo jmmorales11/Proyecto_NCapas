@@ -84,178 +84,6 @@ D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Proyect
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.DD2CDB52.Up2Date
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.dll
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.pdb
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.dll.config
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.pdb
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csc.exe
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csc.exe.config
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csc.rsp
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csi.exe
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csi.exe.config
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csi.rsp
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.AppContext.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Console.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.Compression.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Net.Http.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Net.Sockets.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.ValueTuple.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.XPath.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\vbc.exe
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\vbc.exe.config
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\vbc.rsp
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\VBCSCompiler.exe
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Entities.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Newtonsoft.Json.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\ProyectoProxyService.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Helpers.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Mvc.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Deployment.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Razor.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\SLC.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Entities.pdb
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\ProyectoProxyService.pdb
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Newtonsoft.Json.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Helpers.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Mvc.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Deployment.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Razor.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\SLC.pdb
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Helpers.resources.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Mvc.resources.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Razor.resources.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.resources.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.csproj.AssemblyReference.cache
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.csproj.CoreCompileInputs.cache
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.DD2CDB52.Up2Date
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.dll
-C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.dll.config
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csc.exe
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csc.exe.config
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csc.rsp
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csi.exe
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csi.exe.config
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\csi.rsp
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.Managed.Core.targets
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.AppContext.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Collections.Immutable.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Console.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Globalization.Calendars.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.Compression.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.FileSystem.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Net.Http.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Net.Sockets.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Reflection.Metadata.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.ValueTuple.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.XmlDocument.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.XPath.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\vbc.exe
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\vbc.exe.config
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\vbc.rsp
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\VBCSCompiler.exe
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\roslyn\VBCSCompiler.exe.config
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Entities.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.Web.Infrastructure.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Newtonsoft.Json.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\ProyectoProxyService.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Helpers.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Mvc.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Deployment.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Razor.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\SLC.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Entities.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\ProyectoProxyService.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Newtonsoft.Json.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Helpers.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Mvc.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Deployment.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Razor.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\SLC.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Helpers.resources.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Mvc.resources.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Razor.resources.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.resources.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.Deployment.resources.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.Razor.resources.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.csproj.AssemblyReference.cache
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.csproj.CoreCompileInputs.cache
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.DD2CDB52.Up2Date
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.pdb
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.dll.config
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Proyecto.MVCPLS.pdb
@@ -316,27 +144,27 @@ C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Helpers.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Mvc.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Deployment.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Webpages.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Webpages.Razor.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\SLC.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Entities.pdb
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\ProyectoProxyService.pdb
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Newtonsoft.Json.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Webpages.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Webpages.Razor.xml
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Helpers.xml
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Mvc.xml
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.Razor.xml
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.xml
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Deployment.xml
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\System.Web.WebPages.Razor.xml
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\SLC.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Razor.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Webpages.Razor.resources.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Helpers.resources.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Mvc.resources.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.Razor.resources.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.resources.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.csproj.AssemblyReference.cache
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.csproj.CoreCompileInputs.cache
 C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.DD2CDB52.Up2Date

@@ -64,9 +64,6 @@ namespace Proyecto.MVCPLS.Controllers
                     ViewBag.Message = "No hay categorías disponibles.";
                 }
 
-                ViewBag.SuccessMessage = TempData["SuccessMessage"];
-                ViewBag.ErrorMessage = TempData["ErrorMessage"];
-
                 return View(categories);
             }
             catch (Exception ex)
@@ -101,7 +98,6 @@ namespace Proyecto.MVCPLS.Controllers
                 bool result = proxy.UpdateCategory(category); 
                 if (result)
                 {
-                    TempData["SuccessMessage"] = "Categoría actualizada exitosamente.";
                     return RedirectToAction("List");
                 }
                 else
@@ -135,12 +131,10 @@ namespace Proyecto.MVCPLS.Controllers
             bool result = proxy.DeleteCategory(id); 
             if (result)
             {
-                TempData["SuccessMessage"] = "Categoría eliminada exitosamente";
                 return RedirectToAction("List"); 
             }
             else
             {
-                TempData["ErrorMessage"] = "No se pudo eliminar la categoría.";
                 return RedirectToAction("List"); 
             }
         }
@@ -162,7 +156,6 @@ namespace Proyecto.MVCPLS.Controllers
                 var createdCategory = proxy.CreateCategory(newCategory); 
                 if (createdCategory != null)
                 {
-                    TempData["SuccessMessage"] = "Categoría guardada exitosamente.";
                     return RedirectToAction("List"); 
                 }
                 else

@@ -20,7 +20,6 @@ namespace Service.Controllers
 
         [HttpPost]
         [Route("login")]
-        [AllowAnonymous]
         public async Task<IHttpActionResult> Login([FromBody] LoginRequest loginRequest)
         {
             var BL = new Users();
@@ -48,7 +47,7 @@ namespace Service.Controllers
                     Role = user.Role,
                     Message = "Login exitoso"
                 });
-
+                
             }
             catch (BLL.Exceptions.UnauthorizedAccessException ex) // Contraseña incorrecta
             {
