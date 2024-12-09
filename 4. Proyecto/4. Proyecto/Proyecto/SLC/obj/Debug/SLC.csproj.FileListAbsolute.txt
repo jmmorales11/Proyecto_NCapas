@@ -34,3 +34,12 @@ D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.Up2Date
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.dll
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\SLC.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\SLC.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.pdb

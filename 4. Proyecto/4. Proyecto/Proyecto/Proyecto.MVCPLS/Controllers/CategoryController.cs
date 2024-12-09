@@ -50,6 +50,7 @@ namespace Proyecto.MVCPLS.Controllers
 
 
         [HttpGet]
+        [Authorize(Roles = "Admin, Viewer")]
         // GET: Category/List
         public ActionResult List()
         {

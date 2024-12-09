@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoProxyService
 {
-    public class Proxy : IProduct, ICategory, IUser
+    public class Proxy : IProduct, ICategory, IUser, ILogin
     {
         string BaseAddress = "https://localhost:44396";
 
@@ -151,8 +151,17 @@ namespace ProyectoProxyService
         {
             return Task.Run(async () => await SendGet<List<User>>("/user/filter-user")).Result;
         }
+
         //Login
-        public string Login(string email, string password)
+        public class LoginResponse
+        {
+            public string Token { get; set; }
+            public int UserID { get; set; }
+            public string Role { get; set; }
+            public string Message { get; set; }
+        }
+
+        public LoginResponse Authenticate(string email, string password)
         {
             var loginRequest = new
             {
@@ -160,10 +169,15 @@ namespace ProyectoProxyService
                 Password = password
             };
 
+            // Usar el método SendPost para autenticar al usuario
             return Task.Run(async () =>
-                await SendPost<string, object>("/login", loginRequest)
-        ).Result;
+                await SendPost<LoginResponse, object>("/login", loginRequest)
+            ).Result;
         }
 
+        User ILogin.Authenticate(string email, string password)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
