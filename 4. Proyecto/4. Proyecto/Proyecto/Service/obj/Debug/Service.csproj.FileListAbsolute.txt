@@ -507,3 +507,12 @@ D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.csproj.Up2Date
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.dll
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\obj\Debug\Service.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Owin.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Service\bin\Microsoft.Owin.Security.OAuth.xml

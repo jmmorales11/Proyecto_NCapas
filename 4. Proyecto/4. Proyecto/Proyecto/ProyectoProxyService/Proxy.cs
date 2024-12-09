@@ -151,6 +151,19 @@ namespace ProyectoProxyService
         {
             return Task.Run(async () => await SendGet<List<User>>("/user/filter-user")).Result;
         }
+        //Login
+        public string Login(string email, string password)
+        {
+            var loginRequest = new
+            {
+                Email = email,
+                Password = password
+            };
+
+            return Task.Run(async () =>
+                await SendPost<string, object>("/login", loginRequest)
+        ).Result;
+        }
 
     }
 }

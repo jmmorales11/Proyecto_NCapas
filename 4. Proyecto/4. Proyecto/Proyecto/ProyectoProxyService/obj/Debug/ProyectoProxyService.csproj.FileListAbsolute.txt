@@ -37,3 +37,16 @@ D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\SLC.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\SLC.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb

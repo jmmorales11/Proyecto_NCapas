@@ -30,3 +30,19 @@ C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\t
 C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.Up2Date
 C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.exe
 C:\Users\sebas\source\repos\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.exe.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.exe
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\testuwu.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\ProyectoProxyService.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\SLC.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\ProyectoProxyService.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\SLC.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.csproj.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.exe
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\testuwu\obj\Debug\testuwu.pdb
