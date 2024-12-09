@@ -5,6 +5,7 @@ using Microsoft.Owin.Security.Jwt;
 using System.Text;
 using Microsoft.Owin.Security.OAuth;
 using System.Threading.Tasks;
+using System.Web.Http;
 
 [assembly: OwinStartup(typeof(Service.Startup))]
 
@@ -42,6 +43,11 @@ namespace Service
                     }
                 }
             });
+
+            // Configuración de Web API
+            var config = new HttpConfiguration();
+            WebApiConfig.Register(config);
+            app.UseWebApi(config);
         }
     }
 }

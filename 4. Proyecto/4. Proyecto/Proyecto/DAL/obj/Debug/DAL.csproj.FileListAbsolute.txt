@@ -68,3 +68,17 @@ C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.dll
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\DAL.dll.config
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\DAL.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\DAL.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\Entities.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\Entities.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.xml
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\DAL\obj\Debug\DAL.pdb

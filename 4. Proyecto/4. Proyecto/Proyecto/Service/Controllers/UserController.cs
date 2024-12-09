@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using static Service.WebApiConfig;
 
 namespace Service.Controllers
 {
@@ -14,7 +15,7 @@ namespace Service.Controllers
     public class UserController : ApiController, IUser
     {
         [HttpPost]
-        [Authorize(Roles = "Admin,Editor")]
+        [RoleAuthorize("Admin", "Editor")]
         [Route("create-user")]
         public User CreateUser(User newUser)
         {
@@ -24,7 +25,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin")]
+        [RoleAuthorize("Admin")]
         [Route("delete-user/{id}")]
         public bool DeleteUser(int id)
         {
@@ -34,7 +35,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin, Viewer")]
+        [RoleAuthorize("Admin", "Viewer")]
         [Route("filter-user")]
         public List<User> GetUsers()
         {
@@ -48,7 +49,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin, Viewer")]
+        [RoleAuthorize("Admin", "Viewer")]
         [Route("retrieve-user/{id}")]
         public User RetrieveUserByID(int id)
         {
@@ -58,7 +59,7 @@ namespace Service.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin,Editor")]
+        [RoleAuthorize("Admin", "Editor")]
         [Route("update-user")]
         public bool UpdateUser(User UserToUpdate)
         {

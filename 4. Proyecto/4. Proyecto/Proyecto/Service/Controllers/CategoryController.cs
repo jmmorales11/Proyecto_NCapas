@@ -8,6 +8,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using static Service.WebApiConfig;
 
 namespace Service.Controllers
 {
@@ -22,8 +23,8 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+        [RoleAuthorize("Admin", "Editor")]
         [Route("create-category")]
-        [Authorize(Roles = "Admin,Editor")]
         public Category CreateCategory(Category newCategory)
         {
             var BL = new Categories();
@@ -32,7 +33,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin")]
+        [RoleAuthorize("Admin")]
         [Route("delete-category/{id}")]
         public bool DeleteCategory(int id)
         {
@@ -42,7 +43,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin, Viewer")]
+        [RoleAuthorize("Admin", "Viewer")]
         [Route("filter-category")]
         public List<Category> GetCategory()
         {
@@ -52,7 +53,7 @@ namespace Service.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin, Viewer")]
+        [RoleAuthorize("Admin", "Viewer")]
         [Route("retrieve-category/{id}")]
         public Category RetrieveCategoryByID(int id)
         {
@@ -62,7 +63,7 @@ namespace Service.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin,Editor")]
+        [RoleAuthorize("Admin", "Editor")]
         [Route("update-category")]
         public bool UpdateCategory(Category CategoryToUpdate)
         {

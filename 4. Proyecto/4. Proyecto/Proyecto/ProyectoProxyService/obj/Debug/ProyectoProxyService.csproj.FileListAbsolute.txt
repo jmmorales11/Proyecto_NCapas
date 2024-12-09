@@ -63,3 +63,16 @@ C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Entities.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\SLC.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Entities.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\SLC.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.xml
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.AssemblyReference.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.CoreCompileInputs.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb

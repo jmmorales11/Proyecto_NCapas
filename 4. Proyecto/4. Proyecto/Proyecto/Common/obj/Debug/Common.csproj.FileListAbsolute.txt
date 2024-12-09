@@ -16,3 +16,9 @@ D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.dll
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\bin\Debug\Common.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\bin\Debug\Common.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Common\obj\Debug\Common.pdb
