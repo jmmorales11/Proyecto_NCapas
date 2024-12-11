@@ -94,84 +94,74 @@
         </form>
 
         <!-- Formulario para ingresar código de verificación -->
-     <!--   <form id="verifyForm" onsubmit="handleVerification(event)" style="display:none;">
+        <form id="verifyForm" onsubmit="handleVerification(event)" style="display:none;">
             <div class="form-group">
                 <label for="verificationCode">Código de Verificación:</label>
                 <input type="text" id="verificationCode" name="verificationCode" placeholder="Ingrese el código" required />
             </div>
             <button type="submit" class="btn">Validar Código</button>
-        </form> -->
+        </form>
+
+        <!-- Formulario para ingresar código de verificación -->
+        <!--   <form id="verifyForm" onsubmit="handleVerification(event)" style="display:none;">
+           <div class="form-group">
+               <label for="verificationCode">Código de Verificación:</label>
+               <input type="text" id="verificationCode" name="verificationCode" placeholder="Ingrese el código" required />
+           </div>
+           <button type="submit" class="btn">Validar Código</button>
+       </form> -->
     </div>
 
     <script>
+        // Función para escapar caracteres especiales
+        function escapeHTML(str) {
+            return str.replace(/[&<>"']/g, function (char) {
+                return {
+                    '&': '&amp;',
+                    '<': '&lt;',
+                    '>': '&gt;',
+                    '"': '&quot;',
+                    "'": '&#039;'
+                }[char];
+            });
+        }
+
         async function handleLogin(event) {
             event.preventDefault(); // Evitar recargar la página
 
-            // Obtener valores de los campos de entrada
-            const email = document.getElementById('email').value.trim();
-            const password = document.getElementById('password').value.trim();
+            const email = escapeHTML(document.getElementById('email').value);
+            const password = escapeHTML(document.getElementById('password').value);
 
-            // Validar que los campos no estén vacíos
-            if (!email || !password) {
+            const response = await fetch('/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-Requested-With': 'XMLHttpRequest'
+                },
+                body: JSON.stringify({ Email: email, Password: password })
+            });
+
+            const data = await response.json();
+
+            if (response.ok && data.RequiresVerification) {
+                // Mostrar el formulario de verificación
+                document.getElementById('loginForm').style.display = 'none';
+                document.getElementById('verifyForm').style.display = 'block';
+            } else {
+                // Mostrar mensaje de error de forma segura
                 const errorMessage = document.getElementById('error-message');
                 errorMessage.style.display = 'block';
-                errorMessage.innerText = 'Por favor, completa todos los campos.';
-                return;
-            }
-
-            try {
-                // Realizar la solicitud al servidor
-                const response = await fetch('https://localhost:44396/user/login', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'X-Requested-With': 'XMLHttpRequest', // Opcional, pero útil para identificar solicitudes AJAX
-                    },
-                    body: JSON.stringify({ Email: email, Password: password }),
-                });
-
-                // Manejar la respuesta
-                if (response.ok) {
-                    const data = await response.json();
-
-                    if (data.RequiresVerification) {
-                        // Mostrar formulario de verificación
-                        //document.getElementById('loginForm').style.display = 'none';
-                        //document.getElementById('verifyForm').style.display = 'block';
-                        alert('Inicio de sesión exitoso');
-                        window.location.href = '/Home/Index'; // Redirigir al index o página de inicio
-
-                    } else {
-                        // Iniciar sesión exitosamente
-                        alert('Inicio de sesión exitoso');
-                        window.location.href = '/Home/Index'; // Redirigir directamente al Home
-
-                        // Redirigir o realizar otra acción
-                    }
-                } else {
-                    // Manejo de errores HTTP
-                    const errorData = await response.json();
-                    const errorMessage = document.getElementById('error-message');
-                    errorMessage.style.display = 'block';
-                    errorMessage.innerText = errorData.Message || 'Error al iniciar sesión.';
-                }
-            } catch (error) {
-                // Manejo de errores de red o internos
-                console.error('Error al realizar la solicitud:', error);
-                const errorMessage = document.getElementById('error-message');
-                errorMessage.style.display = 'block';
-                errorMessage.innerText = 'Error de conexión con el servidor.';
+                errorMessage.textContent = data.Message || 'Error al iniciar sesión';  // Usamos textContent en lugar de innerHTML
             }
         }
-
 
         async function handleVerification(event) {
             event.preventDefault(); // Evitar recargar la página
 
-            const email = document.getElementById('email').value;
-            const code = document.getElementById('verificationCode').value;
+            const email = escapeHTML(document.getElementById('email').value);
+            const code = escapeHTML(document.getElementById('verificationCode').value);
 
-            const response = await fetch('https://localhost:44396/user/verify-code', {
+            const response = await fetch('/verify-code', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -184,12 +174,12 @@
 
             if (response.ok && data.Token) {
                 alert('Inicio de sesión exitoso');
-                window.location.href = '/home'; // Redirigir al dashboard
+                window.location.href = '/dashboard'; // Redirigir al dashboard
             } else {
-                // Mostrar mensaje de error
+                // Mostrar mensaje de error de forma segura
                 const errorMessage = document.getElementById('error-message');
                 errorMessage.style.display = 'block';
-                errorMessage.innerText = data.Message || 'Código de verificación incorrecto';
+                errorMessage.textContent = data.Message || 'Código de verificación incorrecto';  // Usamos textContent en lugar de innerHTML
             }
         }
     </script>

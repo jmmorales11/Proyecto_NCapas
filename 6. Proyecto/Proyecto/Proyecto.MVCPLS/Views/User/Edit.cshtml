@@ -12,29 +12,37 @@
         @Html.AntiForgeryToken()
         @Html.HiddenFor(model => model.UserID) <!-- Para mantener el ID del usuario -->
 
+        <!-- Mostrar todos los errores de validación -->
+        @Html.ValidationSummary(true, "Por favor corrige los siguientes errores:", new { @class = "text-danger" })
+
         <div class="form-group">
             @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.UserName, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.Email, new { @class = "form-control minimal-input", type = "email" })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.PasswordHash, htmlAttributes: new { @class = "form-label" })
             @Html.PasswordFor(model => model.PasswordHash, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.PasswordHash, "", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "form-label" })
             @Html.CheckBoxFor(model => model.Status) <!-- Checkbox para el estado (activo/inactivo) -->
+            @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.Role, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.Role, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
         </div>
 
         <div class="form-buttons">

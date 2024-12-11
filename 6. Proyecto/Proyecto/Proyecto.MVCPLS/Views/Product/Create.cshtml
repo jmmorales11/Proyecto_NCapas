@@ -1,7 +1,7 @@
 ﻿@model Entities.Product
 
 @{
-    ViewBag.Title = "Crear Categoría";
+    ViewBag.Title = "Crear Producto";
 }
 
 <div class="form-container">
@@ -11,29 +11,37 @@
     {
         @Html.AntiForgeryToken()
 
+        <!-- Mostrar los errores de validación en un resumen -->
+        @Html.ValidationSummary(true, "Por favor corrige los errores siguientes:", new { @class = "validation-summary" })
+
         <div class="form-group">
             @Html.LabelFor(model => model.ProductName, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.ProductName, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.ProductName, "El nombre del producto es obligatorio.", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.CategoryID, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.CategoryID, new { @class = "form-control minimal-input", type = "number" })
+            @Html.ValidationMessageFor(model => model.CategoryID, "El ID de la categoría es obligatorio.", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.UnitPrice, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.UnitPrice, new { @class = "form-control minimal-input", type = "number", step = "0.01" })
+            @Html.ValidationMessageFor(model => model.UnitPrice, "El precio unitario es obligatorio.", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.UnitsInStock, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.UnitsInStock, new { @class = "form-control minimal-input", type = "number" })
+            @Html.ValidationMessageFor(model => model.UnitsInStock, "Las unidades en stock son obligatorias.", new { @class = "text-danger" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.UserID, htmlAttributes: new { @class = "form-label" })
             @Html.TextBoxFor(model => model.UserID, new { @class = "form-control minimal-input", type = "number" })
+            @Html.ValidationMessageFor(model => model.UserID, "El ID del usuario es obligatorio.", new { @class = "text-danger" })
         </div>
 
         <div class="form-buttons">
@@ -49,7 +57,7 @@
         background-color: #f7f7f7;
         margin: 0;
         padding: 0;
-        height: 100vh; /* Hacer que la altura del cuerpo ocupe toda la pantalla */
+        height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -61,7 +69,7 @@
         border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         width: 100%;
-        max-width: 500px; /* Limitar el ancho máximo del formulario */
+        max-width: 500px;
     }
 
     h2 {
@@ -133,4 +141,14 @@
         .minimal-btn-cancel:hover {
             background-color: #999;
         }
+
+    .validation-summary {
+        color: #d9534f;
+        margin-bottom: 20px;
+    }
+
+    .text-danger {
+        color: #d9534f;
+        font-size: 12px;
+    }
 </style>
