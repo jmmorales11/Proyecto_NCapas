@@ -1,5 +1,6 @@
 ﻿using Entities;
 using ProyectoProxyService;
+using SL.Logger;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,68 +14,78 @@ namespace Proyecto.MVCPLS.Controllers
         // GET: Product
         public ActionResult Index()
         {
+            LogHelper.LogInformation("Iniciando vista de índice de productos.");
             return View();
         }
 
         // Acción para mostrar el formulario de creación
         public ActionResult Create()
         {
+            LogHelper.LogInformation("Mostrando formulario de creación de producto.");
             return View();
         }
 
-        // Acción para guardar la nuevo producto
+        // Acción para guardar el nuevo producto
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(Product newProduct)
         {
             var proxy = new Proxy();
 
             if (ModelState.IsValid)
             {
+                LogHelper.LogInformation("Creando nuevo producto.");
                 var createdProduct = proxy.CreateProduct(newProduct);
                 if (createdProduct != null)
                 {
+                    LogHelper.LogInformation("Producto creado exitosamente.");
                     TempData["SuccessMessage"] = "Producto creado exitosamente";
                     return RedirectToAction("List");
                 }
                 else
                 {
+                    LogHelper.LogWarning("Error al crear el producto.");
                     ModelState.AddModelError("", "Error al crear el producto.");
                 }
             }
             return View(newProduct);
         }
 
-
         // Acción para obtener el producto por ID (mostrar el formulario de edición)
         public ActionResult Edit(int id)
         {
+            LogHelper.LogInformation($"Consultando producto con ID: {id} para edición.");
             var proxy = new Proxy();
-
             var product = proxy.RetrieveProductByID(id);
             if (product == null)
             {
+                LogHelper.LogWarning($"No se encontró el producto con ID: {id}.");
                 return HttpNotFound();
             }
             return View(product);
         }
 
-        // Acción para actualizar la categoría
+        // Acción para actualizar el producto
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Edit(Product product)
         {
             var proxy = new Proxy();
 
             if (ModelState.IsValid)
             {
+                LogHelper.LogInformation($"Actualizando producto con ID: {product.ProductID}.");
                 bool result = proxy.UpdateProduct(product);
                 if (result)
                 {
+                    LogHelper.LogInformation("Producto actualizado exitosamente.");
                     TempData["SuccessMessage"] = "Producto actualizado exitosamente.";
                     return RedirectToAction("List");
                 }
                 else
                 {
-                    TempData["ErrorMessage"] = "Error al actualizar la categoria";
+                    LogHelper.LogWarning("Error al actualizar el producto.");
+                    TempData["ErrorMessage"] = "Error al actualizar el producto.";
                 }
             }
             return View(product);
@@ -83,11 +94,12 @@ namespace Proyecto.MVCPLS.Controllers
         // Acción para eliminar el producto por ID
         public ActionResult Delete(int id)
         {
+            LogHelper.LogInformation($"Consultando producto con ID: {id} para eliminación.");
             var proxy = new Proxy();
-
             var product = proxy.RetrieveProductByID(id);
             if (product == null)
             {
+                LogHelper.LogWarning($"No se encontró el producto con ID: {id}.");
                 return HttpNotFound();
             }
             return View(product);
@@ -97,6 +109,7 @@ namespace Proyecto.MVCPLS.Controllers
         [HttpGet]
         public ActionResult DeleteConfirmed(int id)
         {
+            LogHelper.LogInformation($"Eliminando producto con ID: {id}.");
             var proxy = new Proxy();
 
             try
@@ -104,33 +117,41 @@ namespace Proyecto.MVCPLS.Controllers
                 bool result = proxy.DeleteProduct(id);
                 if (result)
                 {
+                    LogHelper.LogInformation("Producto eliminado exitosamente.");
                     TempData["SuccessMessage"] = "Producto eliminado exitosamente.";
                 }
                 else
                 {
+                    LogHelper.LogWarning("No se pudo eliminar el producto. Es posible que tenga existencias.");
                     TempData["ErrorMessage"] = "No se pudo eliminar el producto. Es posible que tenga existencias.";
                 }
             }
             catch (Exception ex)
             {
+                LogHelper.LogError("Error al intentar eliminar el producto.", ex);
                 TempData["ErrorMessage"] = $"Error al intentar eliminar el producto: {ex.Message}";
             }
 
             return RedirectToAction("List");
         }
 
-
         [HttpGet]
         public ActionResult List()
         {
             try
             {
+                LogHelper.LogInformation("Consultando lista de productos.");
                 var proxy = new Proxy();
                 var products = proxy.GetProducts();
 
                 if (products == null || !products.Any())
                 {
+                    LogHelper.LogWarning("No hay productos disponibles.");
                     ViewBag.Message = "No hay productos disponibles.";
+                }
+                else
+                {
+                    LogHelper.LogInformation($"Se encontraron {products.Count()} productos.");
                 }
 
                 ViewBag.SuccessMessage = TempData["SuccessMessage"];
@@ -140,12 +161,10 @@ namespace Proyecto.MVCPLS.Controllers
             }
             catch (Exception ex)
             {
+                LogHelper.LogError("Error al consultar productos.", ex);
                 ViewBag.ErrorMessage = $"Ocurrió un error: {ex.Message}";
                 return View("Error");
             }
         }
-
-
-
     }
 }

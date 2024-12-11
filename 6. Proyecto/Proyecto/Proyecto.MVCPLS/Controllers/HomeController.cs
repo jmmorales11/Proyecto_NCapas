@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using ProyectoProxyService;
 using Entities;
+using SL.Logger;
 
 namespace Proyecto.MVCPLS.Controllers
 {
@@ -13,6 +14,7 @@ namespace Proyecto.MVCPLS.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            LogHelper.LogInformation("Iniciando vista de Home.");
             return View();
         }
     }
