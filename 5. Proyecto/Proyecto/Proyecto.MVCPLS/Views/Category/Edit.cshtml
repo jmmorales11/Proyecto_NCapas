@@ -1,0 +1,113 @@
+﻿@model Entities.Category
+
+@{
+    ViewBag.Title = "Editar Categoría";
+}
+
+<div class="form-container">
+    <h2>Editar Categoría</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.CategoryID) <!-- Para pasar el ID de la categoría -->
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CategoryName, htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.CategoryName, new { @class = "form-control minimal-input" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "form-label" })
+            @Html.TextAreaFor(model => model.Description, new { @class = "form-control minimal-input", rows = 4 })
+        </div>
+
+        <div class="form-buttons">
+            <button type="submit" class="btn minimal-btn">Actualizar</button>
+            <a href="@Url.Action("List")" class="btn minimal-btn-cancel">Cancelar</a>
+        </div>
+    }
+</div>
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+        height: 100vh; /* Hacer que la altura del cuerpo ocupe toda la pantalla */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px; /* Limitar el ancho máximo del formulario */
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-label {
+        font-weight: 500;
+        color: #555;
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background-color: #fff;
+        font-size: 14px;
+    }
+
+        .form-control:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+    .minimal-input {
+        margin-top: 5px;
+    }
+
+    .form-buttons {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+        text-decoration: none;
+        display: inline-block;
+        transition: background-color 0.3s ease;
+    }
+
+    .minimal-btn {
+        background-color: #007bff;
+        color: #fff;
+        margin-right: 10px;
+    }
+
+        .minimal-btn:hover {
+            background-color: #0056b3;
+        }
+</style>
