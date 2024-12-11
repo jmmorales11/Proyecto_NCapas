@@ -28,7 +28,7 @@ namespace Service.Controllers
 
         [HttpPost]
         [Route("login")]
-       [AllowAnonymous]
+        [AllowAnonymous]
         public async Task<IHttpActionResult> Login([FromBody] LoginRequest loginRequest)
         {
             var BL = new Users();
@@ -38,7 +38,7 @@ namespace Service.Controllers
 
             try
             {
-                // Autenticar al usuario
+                // Intentar autenticar al usuario
                 var user = BL.Authenticate(loginRequest.Email, loginRequest.Password);
 
                 // Generar código de verificación

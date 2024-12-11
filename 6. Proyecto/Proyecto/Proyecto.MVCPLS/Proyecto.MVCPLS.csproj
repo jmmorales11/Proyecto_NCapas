@@ -167,6 +167,10 @@
       <Project>{2d6be6a9-5814-4653-9f2b-1731cfe5c3b9}</Project>
       <Name>ProyectoProxyService</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SL\SL.csproj">
+      <Project>{82f871ff-4214-4951-ab7b-f439c3290d34}</Project>
+      <Name>SL</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

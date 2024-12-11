@@ -113,11 +113,43 @@ namespace BLL
                     throw new System.UnauthorizedAccessException("Usuario no encontrado.");
                 }
 
+                // Verificar si la cuenta está bloqueada
+                if (user.AccountLockedUntil.HasValue && user.AccountLockedUntil > DateTime.Now)
+                {
+                    throw new System.UnauthorizedAccessException("La cuenta está bloqueada. Intenta nuevamente después de unos minutos.");
+                }
+
                 // Verificar si la contraseña coincide con el hash
                 if (!PasswordHasher.VerifyPassword(password, user.PasswordHash))
                 {
+                    // Aumentar el contador de intentos fallidos
+                    if (user.FailedLoginAttempts == null)
+                    {
+                        user.FailedLoginAttempts = 1;
+                    }
+                    else
+                    {
+                        user.FailedLoginAttempts += 1;
+                    }
+
+                    // Si el número de intentos fallidos alcanza 3, bloquear la cuenta durante 2 minutos
+                    if (user.FailedLoginAttempts >= 3)
+                    {
+                        user.AccountLockedUntil = DateTime.Now.AddMinutes(2);
+                        r.Update(user); // Actualizar el usuario con la fecha de bloqueo
+                        throw new System.UnauthorizedAccessException("Has excedido los intentos de inicio de sesión. La cuenta está bloqueada por 2 minutos.");
+                    }
+
+                    // Guardar los cambios de intentos fallidos
+                    r.Update(user);
+
                     throw new System.UnauthorizedAccessException("Contraseña incorrecta.");
                 }
+
+                // Si la autenticación fue exitosa, reiniciar los intentos fallidos y la fecha de bloqueo
+                user.FailedLoginAttempts = 0;
+                user.AccountLockedUntil = null;
+                r.Update(user);
 
                 return user; // Usuario autenticado correctamente
             }

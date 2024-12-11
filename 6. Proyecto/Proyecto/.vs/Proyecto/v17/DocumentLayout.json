@@ -1,185 +1,193 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\",
+  "WorkspaceRootPath": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\7. septimo semestre\\3. aplicaciones distribuidas\\4. proyecto\\proyecto\\proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\7. septimo semestre\\3. aplicaciones distribuidas\\proyecto_ncapas\\6. proyecto\\proyecto\\proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\authorization\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authorization\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|solutionrelative:proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\slc\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\authorization\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authorization\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\authentication\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authentication\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\sl\\authentication\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authentication\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|solutionrelative:dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\service\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\slc\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\dll\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|solutionrelative:dll\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\slc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA2AF97-5274-4930-BEFE-6F9FCDD62EC7}|DAL\\DAL.csproj|d:\\7. septimo semestre\\3. aplicaciones distribuidas\\proyecto_ncapas\\6. proyecto\\proyecto\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BA2AF97-5274-4930-BEFE-6F9FCDD62EC7}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|solutionrelative:dll\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|d:\\7. septimo semestre\\3. aplicaciones distribuidas\\proyecto_ncapas\\6. proyecto\\proyecto\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\authorization\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authorization\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6BE6A9-5814-4653-9F2B-1731CFE5C3B9}|ProyectoProxyService\\ProyectoProxyService.csproj|solutionrelative:proyectoproxyservice\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\slc\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\authorization\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authorization\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\authentication\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authentication\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\sl\\authentication\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\authentication\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\service\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\slc\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\dll\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333A6FD-0531-4428-90B3-577B8CF54B7A}|DLL\\BLL.csproj|solutionrelative:dll\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\slc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44B45158-9757-43BF-9710-7329E7FA4DFA}|SLC\\SLC.csproj|solutionrelative:slc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\proyecto.mvcpls\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -194,29 +202,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwIcAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T14:55:33.327Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T06:07:58.122Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -250,11 +260,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAQwJIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T04:54:36.158Z",
               "EditorCaption": ""
@@ -262,10 +272,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:53:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:27:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:23:16.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.Config",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T17:32:22.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\DLL\\Users.cs",
+              "RelativeDocumentMoniker": "DLL\\Users.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\DLL\\Users.cs",
+              "RelativeToolTip": "DLL\\Users.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:43:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:30:06.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Web.config",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Web.config",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Web.config",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Web.config",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Web.config",
               "RelativeToolTip": "Proyecto.MVCPLS\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -274,23 +362,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwBwAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Service\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T04:53:31.037Z"
+              "WhenOpened": "2024-12-11T04:21:21.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\App_Start\\WebApiConfig.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "Service\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "Service\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Proxy.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
               "RelativeDocumentMoniker": "ProyectoProxyService\\Proxy.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\ProyectoProxyService\\Proxy.cs",
               "RelativeToolTip": "ProyectoProxyService\\Proxy.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAAALsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,23 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Service\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Service\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T04:21:21.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Web.config",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Web.config",
               "RelativeDocumentMoniker": "Service\\Web.config",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Web.config",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Web.config",
               "RelativeToolTip": "Service\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -335,24 +412,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "JwtService.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authorization\\JwtService.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authorization\\JwtService.cs",
               "RelativeDocumentMoniker": "SL\\Authorization\\JwtService.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authorization\\JwtService.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authorization\\JwtService.cs",
               "RelativeToolTip": "SL\\Authorization\\JwtService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T03:47:42.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T03:47:42.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\packages.config",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\packages.config",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\packages.config",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\packages.config",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\packages.config",
               "RelativeToolTip": "Proyecto.MVCPLS\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -360,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "ILogin.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SLC\\ILogin.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SLC\\ILogin.cs",
               "RelativeDocumentMoniker": "SLC\\ILogin.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SLC\\ILogin.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SLC\\ILogin.cs",
               "RelativeToolTip": "SLC\\ILogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -384,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -408,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\App.config",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\App.config",
               "RelativeDocumentMoniker": "SL\\App.config",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\App.config",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\App.config",
               "RelativeToolTip": "SL\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -420,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "UnauthorizedAccessException.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authorization\\UnauthorizedAccessException.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authorization\\UnauthorizedAccessException.cs",
               "RelativeDocumentMoniker": "SL\\Authorization\\UnauthorizedAccessException.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authorization\\UnauthorizedAccessException.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authorization\\UnauthorizedAccessException.cs",
               "RelativeToolTip": "SL\\Authorization\\UnauthorizedAccessException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,23 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAwwFIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:23:16.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Global.asax.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Global.asax.cs",
               "RelativeDocumentMoniker": "Service\\Global.asax.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Global.asax.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Global.asax.cs",
               "RelativeToolTip": "Service\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -456,11 +520,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Service\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -468,11 +532,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authentication\\PasswordHasher.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authentication\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "SL\\Authentication\\PasswordHasher.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authentication\\PasswordHasher.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authentication\\PasswordHasher.cs",
               "RelativeToolTip": "SL\\Authentication\\PasswordHasher.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -480,11 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\packages.config",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\packages.config",
               "RelativeDocumentMoniker": "SL\\packages.config",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\packages.config",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\packages.config",
               "RelativeToolTip": "SL\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -492,11 +556,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "IEmailService.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authentication\\IEmailService.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authentication\\IEmailService.cs",
               "RelativeDocumentMoniker": "SL\\Authentication\\IEmailService.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authentication\\IEmailService.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authentication\\IEmailService.cs",
               "RelativeToolTip": "SL\\Authentication\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -504,11 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authentication\\EmailService.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authentication\\EmailService.cs",
               "RelativeDocumentMoniker": "SL\\Authentication\\EmailService.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SL\\Authentication\\EmailService.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SL\\Authentication\\EmailService.cs",
               "RelativeToolTip": "SL\\Authentication\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,23 +580,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Users.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\DLL\\Users.cs",
-              "RelativeDocumentMoniker": "DLL\\Users.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\DLL\\Users.cs",
-              "RelativeToolTip": "DLL\\Users.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAD4vxoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T04:43:17.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\UserController.cs",
               "RelativeToolTip": "Service\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -540,11 +592,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Service\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -552,11 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAHAAAAAAAAAAAAAcwHAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -564,11 +616,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Models\\LoginRequest.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "Service\\Models\\LoginRequest.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Service\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Service\\Models\\LoginRequest.cs",
               "RelativeToolTip": "Service\\Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -576,11 +628,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "IProduct.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SLC\\IProduct.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SLC\\IProduct.cs",
               "RelativeDocumentMoniker": "SLC\\IProduct.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SLC\\IProduct.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SLC\\IProduct.cs",
               "RelativeToolTip": "SLC\\IProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -588,23 +640,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T01:27:56.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
               "ViewState": "AgIAAEYAAAAAAAAAAAAQwFgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -612,11 +652,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Products.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\DLL\\Products.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\DLL\\Products.cs",
               "RelativeDocumentMoniker": "DLL\\Products.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\DLL\\Products.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\DLL\\Products.cs",
               "RelativeToolTip": "DLL\\Products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -624,11 +664,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -636,11 +676,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "IUser.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SLC\\IUser.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SLC\\IUser.cs",
               "RelativeDocumentMoniker": "SLC\\IUser.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\SLC\\IUser.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\SLC\\IUser.cs",
               "RelativeToolTip": "SLC\\IUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,11 +688,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\List.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\List.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\List.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\List.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\List.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\List.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAArwDIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -660,11 +700,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Entities\\User.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Entities\\User.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Entities\\User.cs",
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -672,11 +712,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAGMAAAAAAAAAAAAcwHEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -684,11 +724,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
               "ViewState": "AgIAALoAAAAAAAAAAAAqwNUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -696,11 +736,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -708,11 +748,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -720,11 +760,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAG0AAAAAAAAAAAAqwIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -732,11 +772,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
               "ViewState": "AgIAAL8AAAAAAAAAAAAqwNoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -744,11 +784,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Entities\\Product.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Product.cs",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Entities\\Product.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Entities\\Product.cs",
               "RelativeToolTip": "Entities\\Product.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -756,11 +796,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Delete.cshtml",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\4. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\Proyecto_NCapas\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Delete.cshtml",
               "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
