@@ -9,9 +9,10 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
+using BLL;
 namespace ProyectoProxyService
 {
-    public class Proxy : IProduct, ICategory, IUser, ILogin
+    public class Proxy : IProduct, ICategory, IUser,ILogin
     {
         string BaseAddress = "https://localhost:44396";
 
@@ -151,6 +152,8 @@ namespace ProyectoProxyService
         {
             return Task.Run(async () => await SendGet<List<User>>("/user/filter-user")).Result;
         }
+
+        
 
         //Login
         public class LoginResponse

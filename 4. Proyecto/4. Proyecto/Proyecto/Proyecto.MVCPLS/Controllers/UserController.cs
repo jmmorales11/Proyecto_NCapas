@@ -21,6 +21,8 @@ namespace Proyecto.MVCPLS.Controllers
         {
             return View();
         }
+        
+
 
         // Acción para guardar el nuevo usuario
         [HttpPost]
@@ -142,6 +144,37 @@ namespace Proyecto.MVCPLS.Controllers
                 ViewBag.ErrorMessage = $"Ocurrió un error: {ex.Message}";
                 return View("Error");
             }
+        }
+
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////////
+        ///
+        // Acción para guardar el nuevo usuario desde AddUser
+        public ActionResult AddUser()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public ActionResult AddUser(User newUser)
+        {
+            var proxy = new Proxy();
+
+            if (ModelState.IsValid)
+            {
+                var createdUser = proxy.CreateUser(newUser);
+                if (createdUser != null)
+                {
+                    TempData["SuccessMessage"] = "Usuario agregado exitosamente desde AddUser.";
+                    return RedirectToAction("List");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Error al agregar el usuario.");
+                }
+            }
+            return View(newUser);
         }
     }
 }

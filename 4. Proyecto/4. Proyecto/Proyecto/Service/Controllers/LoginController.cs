@@ -1,100 +1,80 @@
-﻿using BLL.Security;
-using BLL;
-using Common.Interfaces;
+﻿using BLL;
+using BLL.Security; // Para PasswordHasher
+using BLL.Exceptions;
 using Service.Models;
-using Service;
-using System.Collections.Generic;
+using System;
 using System.Net;
 using System.Threading.Tasks;
 using System.Web.Http;
-using System;
+using Common.Interfaces;
 
-public class LoginController : ApiController
+namespace Service.Controllers
 {
-    private static Dictionary<string, string> VerificationCodes = new Dictionary<string, string>();
-    private readonly IEmailService _emailService;
-
-    public LoginController()
+    public class LoginController : ApiController
     {
-        _emailService = new EmailService(); // Inicialización manual
-    }
-
-    [HttpPost]
-    [Route("login")]
-    [AllowAnonymous]
-    public async Task<IHttpActionResult> Login([FromBody] LoginRequest loginRequest)
-    {
-        var BL = new Users();
-        string recipientEmail = loginRequest.Email;
-        string subject1 = "Inicio de sesión";
-        string body1;
-
-        try
+        private readonly IEmailService _emailService;
+        public LoginController()
         {
-            // Autenticar al usuario
-            var user = BL.Authenticate(loginRequest.Email, loginRequest.Password);
+            _emailService = new EmailService(); // Inicialización manual
+        }
 
-            // Generar código de verificación
-            var random = new Random();
-            string verificationCode = random.Next(1000, 9999).ToString();
+        [HttpPost]
+        [Route("login")]
+        public async Task<IHttpActionResult> Login([FromBody] LoginRequest loginRequest)
+        {
+            var BL = new Users();
+            string recipientEmail = loginRequest.Email;
+            string subject = "Inicio de sesión fallido";
+            string subject1 = "Inicio de sesión";
+            string body = $"Se registró un inicio de sesión fallido.";
 
-            // Guardar el código en un diccionario temporal
-            VerificationCodes[loginRequest.Email] = verificationCode;
 
-            // Enviar correo con el código
-            body1 = $"Se registró un inicio de sesión. Tu código de verificación es: {verificationCode}";
-            await _emailService.SendEmailAsync(recipientEmail, subject1, body1);
-
-            return Ok(new
+            try
             {
-                Message = "Código de verificación enviado al correo.",
-                RequiresVerification = true
-            });
-        }
-        catch (BLL.Exceptions.UnauthorizedAccessException ex)
-        {
-            return Content(HttpStatusCode.Unauthorized, new { Message = ex.Message });
-        }
-        catch (Exception ex)
-        {
-            return InternalServerError(ex);
-        }
-    }
+                // Autenticar al usuario
+                var user = BL.Authenticate(loginRequest.Email, loginRequest.Password);
+                var random = new Random();
+                string verificationCode = random.Next(1000, 9999).ToString();
+                string body1 = $"Se registró un inicio de sesión. Tu código de verificación es: {verificationCode}";
+                await _emailService.SendEmailAsync(recipientEmail, subject1, body1);
+                // Generar el token JWT
+   
+                return Ok(new
+                {
 
-    [HttpPost]
-    [Route("verify-code")]
-    [AllowAnonymous]
-    public IHttpActionResult VerifyCode([FromBody] VerifyCodeRequest verifyRequest)
-    {
-        if (VerificationCodes.TryGetValue(verifyRequest.Email, out string storedCode) && storedCode == verifyRequest.Code)
-        {
-            // Eliminar el código una vez validado
-            VerificationCodes.Remove(verifyRequest.Email);
+                    UserID = user.UserID,
+                    Role = user.Role,
+                    Message = "Login exitoso"
+                });
 
-            // Para el ejemplo, supongamos que el rol fue pasado desde el cliente o almacenado temporalmente
-            string userRole = "User"; // Reemplaza con el rol correcto si ya lo tienes en algún lugar
-
-            // Generar token JWT
-            var token = JwtService.GenerateToken(verifyRequest.Email, userRole);
-
-            return Ok(new
+            }
+            catch (BLL.Exceptions.UnauthorizedAccessException ex) // Contraseña incorrecta
             {
-                Token = token,
-                Email = verifyRequest.Email,
-                Role = userRole,
-                Message = "Login exitoso"
-            });
-        }
-        else
-        {
-            return Content(HttpStatusCode.Unauthorized, new { Message = "Código de verificación inválido o expirado." });
+                try
+                {
+                    await _emailService.SendEmailAsync(recipientEmail, subject, body);
+                }
+                catch (Exception emailEx)
+                {
+                    // Log de error al enviar el correo, para evitar que falle el flujo
+                    Console.WriteLine($"Error al enviar el correo: {emailEx.Message}");
+                }
+
+                return Content(HttpStatusCode.Unauthorized, new { Message = ex.Message });
+            }
+            catch (Exception ex) // Otros errores
+            {
+                try
+                {
+                    await _emailService.SendEmailAsync(recipientEmail, subject, body);
+                }
+                catch (Exception emailEx)
+                {
+                    Console.WriteLine($"Error al enviar el correo: {emailEx.Message}");
+                }
+
+                return InternalServerError(ex);
+            }
         }
     }
-
-    public class VerifyCodeRequest
-    {
-        public string Email { get; set; }
-        public string Code { get; set; }
-    }
-
 }

@@ -428,3 +428,4 @@ C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.DD2CDB52.Up2Date
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.dll
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\obj\Debug\Proyecto.MVCPLS.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\Proyecto.MVCPLS\bin\ProyectoProxyService.dll.config

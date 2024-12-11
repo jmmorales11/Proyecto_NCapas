@@ -14,32 +14,29 @@ namespace BLL
     {
         public User Create(User newUser)
         {
-            User Result = null;
             using (var r = RepositoryFactory.CreateRepository())
             {
                 // Verificar si el correo ya está registrado
-                User res = r.Retrieve<User>(u => u.Email == newUser.Email);
-                if (res == null)
+                User existingUser = r.Retrieve<User>(u => u.Email == newUser.Email);
+                if (existingUser != null)
                 {
-                    // Validar la contraseña
-                    if (!ValidatePassword(newUser, newUser.PasswordHash))
-                    {
-                        throw new Exception("La contraseña no cumple con los requisitos de seguridad.");
-                    }
-
-                    // Hashear la contraseña antes de guardar el usuario
-                    newUser.PasswordHash = PasswordHasher.HashPassword(newUser.PasswordHash);
-
-                    // Crear el usuario
-                    Result = r.Create(newUser);
+                    return null; // Indica que el correo ya está registrado
                 }
-                else
+
+                // Validar la contraseña
+                if (!ValidatePassword(newUser, newUser.PasswordHash))
                 {
-                    throw new Exception("El correo electrónico ya está registrado.");
+                    return null; // Indica que la contraseña no cumple con los requisitos
                 }
+
+                // Hashear la contraseña antes de guardar el usuario
+                newUser.PasswordHash = PasswordHasher.HashPassword(newUser.PasswordHash);
+
+                // Crear el usuario
+                return r.Create(newUser);
             }
-            return Result;
         }
+
         public User RetrieveByID(int ID)
         {
             User Result = null;
