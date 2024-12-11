@@ -52,11 +52,23 @@
     <Reference Include="Microsoft.IdentityModel.Tokens, Version=8.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.IdentityModel.Tokens.8.3.0\lib\net472\Microsoft.IdentityModel.Tokens.dll</HintPath>
     </Reference>
+    <Reference Include="Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10, processorArchitecture=MSIL">
+      <HintPath>..\packages\Serilog.4.2.0\lib\net471\Serilog.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10, processorArchitecture=MSIL">
+      <HintPath>..\packages\Serilog.Sinks.Console.6.0.0\lib\net471\Serilog.Sinks.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10, processorArchitecture=MSIL">
+      <HintPath>..\packages\Serilog.Sinks.File.6.0.0\lib\net471\Serilog.Sinks.File.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.8.0.1\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
     <Reference Include="System.IdentityModel.Tokens.Jwt, Version=8.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.8.3.0\lib\net472\System.IdentityModel.Tokens.Jwt.dll</HintPath>
     </Reference>
@@ -79,6 +91,9 @@
     <Reference Include="System.Text.Json, Version=8.0.0.5, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Text.Json.8.0.5\lib\net462\System.Text.Json.dll</HintPath>
     </Reference>
+    <Reference Include="System.Threading.Channels, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Channels.8.0.0\lib\net462\System.Threading.Channels.dll</HintPath>
+    </Reference>
     <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
@@ -98,6 +113,7 @@
     <Compile Include="Authentication\PasswordHasher.cs" />
     <Compile Include="Authorization\JwtService.cs" />
     <Compile Include="Authorization\UnauthorizedAccessException.cs" />
+    <Compile Include="Logger\LogHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
