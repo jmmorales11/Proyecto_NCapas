@@ -50,6 +50,7 @@ namespace Proyecto.MVCPLS.Controllers
 
 
         [HttpGet]
+       
         // GET: Category/List
         public ActionResult List()
         {

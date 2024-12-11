@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoProxyService
 {
-    public class Proxy : IProduct, ICategory, IUser
+    public class Proxy : IProduct, ICategory, IUser, ILogin
     {
         string BaseAddress = "https://localhost:44396";
 
@@ -151,19 +151,61 @@ namespace ProyectoProxyService
         {
             return Task.Run(async () => await SendGet<List<User>>("/user/filter-user")).Result;
         }
+
         //Login
-        public string Login(string email, string password)
+        public class LoginResponse
         {
+            public string Token { get; set; }
+            public int UserID { get; set; }
+            public string Role { get; set; }
+            public string Message { get; set; }
+        }
+
+        // Login
+        public LoginResponse Authenticate(string email, string password)
+        {
+            // Crear el objeto de solicitud de login
             var loginRequest = new
             {
                 Email = email,
                 Password = password
             };
 
-            return Task.Run(async () =>
-                await SendPost<string, object>("/login", loginRequest)
-        ).Result;
+            // Enviar la solicitud de login
+            var loginResponse = Task.Run(async () =>
+                await SendPost<LoginResponse, object>("/login", loginRequest)
+            ).Result;
+
+            // Verificar si el servidor envió un mensaje de verificación
+            if (loginResponse != null && loginResponse.Message == "Código de verificación enviado al correo.")
+            {
+                // Solicitar el código de verificación al usuario
+                Console.WriteLine("Ingrese el código de verificación enviado a su correo:");
+                string verificationCode = Console.ReadLine();
+
+                // Crear el objeto de solicitud de verificación
+                var verifyRequest = new
+                {
+                    Email = email,
+                    Code = verificationCode
+                };
+
+                // Enviar la solicitud de verificación del código
+                var verifyResponse = Task.Run(async () =>
+                    await SendPost<LoginResponse, object>("/verify-code", verifyRequest)
+                ).Result;
+
+                return verifyResponse;
+            }
+
+            // Si no se requiere verificación o el login falla, devuelve la respuesta original
+            return loginResponse;
         }
 
+
+        User ILogin.Authenticate(string email, string password)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
