@@ -11,20 +11,26 @@ namespace Entities
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Category
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Category()
         {
             this.Products = new HashSet<Product>();
         }
-    
+
         public int CategoryID { get; set; }
+
+        [Required(ErrorMessage = "El nombre de la categoría es obligatorio.")]
+        [StringLength(100, ErrorMessage = "El nombre de la categoría no puede exceder los 100 caracteres.")]
         public string CategoryName { get; set; }
+
+        [Required(ErrorMessage = "La descripción es obligatoria.")]
+        [StringLength(500, ErrorMessage = "La descripción no puede exceder los 500 caracteres.")]
         public string Description { get; set; }
-    
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+
         public virtual ICollection<Product> Products { get; set; }
     }
 }
+
