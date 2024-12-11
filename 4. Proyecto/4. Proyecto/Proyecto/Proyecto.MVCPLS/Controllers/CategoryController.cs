@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Service;
 
 namespace Proyecto.MVCPLS.Controllers
 {
@@ -50,7 +51,10 @@ namespace Proyecto.MVCPLS.Controllers
 
 
         [HttpGet]
+<<<<<<< HEAD
        
+=======
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         // GET: Category/List
         public ActionResult List()
         {

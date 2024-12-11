@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using static Service.WebApiConfig;
 
 namespace Service.Controllers
 {
@@ -14,6 +15,10 @@ namespace Service.Controllers
     public class UserController : ApiController, IUser
     {
         [HttpPost]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Editor")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("create-user")]
         public User CreateUser(User newUser)
         {
@@ -23,6 +28,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("delete-user/{id}")]
         public bool DeleteUser(int id)
         {
@@ -32,6 +41,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("filter-user")]
 
         public List<User> GetUsers()
@@ -46,6 +59,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("retrieve-user/{id}")]
         public User RetrieveUserByID(int id)
         {
@@ -55,6 +72,10 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Editor")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("update-user")]
         public bool UpdateUser(User UserToUpdate)
         {

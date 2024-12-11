@@ -43,3 +43,12 @@ C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.Up2Date
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.dll
 C:\Users\sebas\OneDrive\Desktop\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\SLC.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\SLC.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\Entities.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\bin\Debug\Entities.pdb
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.Up2Date
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.dll
+D:\aplicaciones_distribuidas\Proyecto_NCapas\version_f\Proyecto_NCapas\4. Proyecto\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.pdb

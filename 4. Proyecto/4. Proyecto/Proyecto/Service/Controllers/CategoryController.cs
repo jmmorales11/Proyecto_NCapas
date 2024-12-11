@@ -8,6 +8,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using static Service.WebApiConfig;
 
 namespace Service.Controllers
 {
@@ -22,8 +23,12 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+        [RoleAuthorize("Admin", "Editor")]
         [Route("create-category")]
+<<<<<<< HEAD
         [AllowAnonymous]
+=======
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         public Category CreateCategory(Category newCategory)
         {
             var BL = new Categories();
@@ -32,6 +37,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("delete-category/{id}")]
         public bool DeleteCategory(int id)
         {
@@ -41,6 +50,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("filter-category")]
         [AllowAnonymous]
         public List<Category> GetCategory()
@@ -51,6 +64,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("retrieve-category/{id}")]
         public Category RetrieveCategoryByID(int id)
         {
@@ -60,7 +77,11 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+<<<<<<< HEAD
 
+=======
+        [RoleAuthorize("Admin", "Editor")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("update-category")]
         public bool UpdateCategory(Category CategoryToUpdate)
         {

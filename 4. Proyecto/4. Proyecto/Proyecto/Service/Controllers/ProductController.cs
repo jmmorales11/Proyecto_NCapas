@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using static Service.WebApiConfig;
 
 namespace Service.Controllers
 {
@@ -14,6 +15,10 @@ namespace Service.Controllers
     public class ProductController : ApiController, IProduct
     {
         [HttpPost]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Editor")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("create-product")] 
         public Product CreateProduct(Product newProduct)
         {
@@ -23,6 +28,11 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+
+        [RoleAuthorize("Admin")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("delete-product/{id}")]
         public bool DeleteProduct(int id)
         {
@@ -33,6 +43,10 @@ namespace Service.Controllers
 
         //obtiene todos los productos de la categoria seleccionada
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("filter-product/{id}")]
         [AllowAnonymous]
         public List<Product> FilterProductsByCategoryID(int id)
@@ -43,6 +57,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("filter")]
         [AllowAnonymous]
         public List<Product> GetProducts()
@@ -53,6 +71,10 @@ namespace Service.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Viewer")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("retrieve/{id}")]
         public Product RetrieveProductByID(int id)
         {
@@ -62,6 +84,10 @@ namespace Service.Controllers
         }
 
         [HttpPost]
+<<<<<<< HEAD
+=======
+        [RoleAuthorize("Admin", "Editor")]
+>>>>>>> 33144d7683630ae9432d0686e5dcc123a8bd1d29
         [Route("update-product")]
         public bool UpdateProduct(Product productToUpdate)
         {
