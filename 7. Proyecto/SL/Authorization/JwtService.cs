@@ -13,7 +13,7 @@ namespace SL.Authorization
     {
         // Configuration for token generation and validation
         private const string SecretKey = "TuClaveSuperSecretaLargaDe32CaracteresOMas!";
-        private const int TokenExpirationMinutes = 30;
+        private const int TokenExpirationMinutes = 15;
         private const string Issuer = "TuAplicacion";
         private const string Audience = "TuAplicacion";
 

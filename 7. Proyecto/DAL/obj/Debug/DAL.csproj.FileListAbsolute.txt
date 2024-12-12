@@ -68,3 +68,17 @@ C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\DAL\obj
 C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\DAL\obj\Debug\DAL.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\DAL\obj\Debug\DAL.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\DAL.dll.config
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\DAL.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\DAL.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\obj\Debug\DAL.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\DAL\obj\Debug\DAL.pdb

@@ -1,11 +1,10 @@
-﻿using Entities;
-using ProyectoProxyService;
-using System;
+﻿using System;
+using System.Web;
 using System.Web.Mvc;
 using System.ComponentModel.DataAnnotations;
-using SL.Logger; // Asegúrate de incluir el namespace del logger
-using System.Web;
 using Proyecto.MVCPLS.Models; // Para LoginViewModel
+using SL.Logger; // Para registro de logs
+using ProyectoProxyService; // Para la clase Proxy
 
 namespace Proyecto.MVCPLS.Controllers
 {
@@ -19,18 +18,64 @@ namespace Proyecto.MVCPLS.Controllers
             _proxy = new Proxy();
         }
 
+        // Método para destruir las cookies
+        private void ClearAuthCookies()
+        {
+            if (Request.Cookies["AuthToken"] != null)
+            {
+                var authCookie = new HttpCookie("AuthToken")
+                {
+                    Expires = DateTime.Now.AddDays(-1) // Expirar la cookie
+                };
+                Response.Cookies.Add(authCookie);
+                LogHelper.LogInformation("Cookie 'AuthToken' eliminada.");
+            }
+
+            if (Request.Cookies["UserRole"] != null)
+            {
+                var roleCookie = new HttpCookie("UserRole")
+                {
+                    Expires = DateTime.Now.AddDays(-1)
+                };
+                Response.Cookies.Add(roleCookie);
+                LogHelper.LogInformation("Cookie 'UserRole' eliminada.");
+            }
+        }
+
         // Acción para mostrar el formulario de inicio de sesión
         public ActionResult Login()
         {
-            LogHelper.LogInformation("Se mostró el formulario de inicio de sesión.");
+            // Destruir cookies de autenticación
+            if (Request.Cookies["AuthToken"] != null)
+            {
+                var authCookie = new HttpCookie("AuthToken")
+                {
+                    Expires = DateTime.Now.AddDays(-1)
+                };
+                Response.Cookies.Add(authCookie);
+            }
+
+            if (Request.Cookies["UserRole"] != null)
+            {
+                var roleCookie = new HttpCookie("UserRole")
+                {
+                    Expires = DateTime.Now.AddDays(-1)
+                };
+                Response.Cookies.Add(roleCookie);
+            }
+
+            LogHelper.LogInformation("El usuario accedió al login y se eliminaron las cookies.");
             return View();
         }
 
+
         [HttpPost]
-        [ValidateAntiForgeryToken]  // Protección contra CSRF
+        [ValidateAntiForgeryToken] // Protección contra CSRF
         public ActionResult Login(LoginViewModel model)
         {
-            // Validar las entradas del usuario
+            // Asegúrate de eliminar las cookies antes de procesar la solicitud
+            ClearAuthCookies();
+
             if (!ModelState.IsValid)
             {
                 LogHelper.LogWarning("Intento de inicio de sesión con datos inválidos.");
@@ -57,17 +102,15 @@ namespace Proyecto.MVCPLS.Controllers
             {
                 LogHelper.LogInformation($"Inicio de sesión iniciado para el correo: {model.Email}");
 
-                // Llama a la función síncrona Authenticate del proxy
                 var response = _proxy.Authenticate(model.Email, model.Password);
 
                 if (response != null && !string.IsNullOrEmpty(response.Token))
                 {
-                    // Crear una cookie para almacenar el token
                     var authCookie = new HttpCookie("AuthToken", response.Token)
                     {
-                        HttpOnly = true, // Seguridad contra accesos desde scripts
-                        Secure = Request.IsSecureConnection, // Solo para conexiones HTTPS
-                        Expires = DateTime.Now.AddHours(1) // Establecer tiempo de expiración
+                        HttpOnly = true,
+                        Secure = Request.IsSecureConnection,
+                        Expires = DateTime.Now.AddHours(1)
                     };
 
                     var roleCookie = new HttpCookie("UserRole", response.Role)
@@ -81,52 +124,19 @@ namespace Proyecto.MVCPLS.Controllers
                     Response.Cookies.Add(roleCookie);
 
                     LogHelper.LogInformation("Login exitoso. Token y rol guardados en cookies.");
-
-                    // Redirigir al Dashboard Principal
                     return RedirectToAction("Index", "Home");
                 }
 
-                // Si la autenticación falla, muestra un mensaje de error
                 ViewBag.ErrorMessage = response?.Message ?? "Credenciales inválidas. Por favor, intente nuevamente.";
                 LogHelper.LogWarning("Credenciales inválidas o token no recibido.");
             }
             catch (Exception ex)
             {
-                // Manejar cualquier excepción
                 LogHelper.LogError("Error durante el inicio de sesión", ex);
                 ViewBag.ErrorMessage = $"Ocurrió un error: {ex.Message}";
             }
 
-            // Si llegamos aquí, la autenticación falló
             return View(model);
-        }
-
-        // Acción para cerrar sesión
-        public ActionResult Logout()
-        {
-            // Limpiar la sesión y las cookies
-            Session.Abandon();
-
-            if (Request.Cookies["AuthToken"] != null)
-            {
-                var authCookie = new HttpCookie("AuthToken")
-                {
-                    Expires = DateTime.Now.AddDays(-1) // Expirar la cookie
-                };
-                Response.Cookies.Add(authCookie);
-            }
-
-            if (Request.Cookies["UserRole"] != null)
-            {
-                var roleCookie = new HttpCookie("UserRole")
-                {
-                    Expires = DateTime.Now.AddDays(-1)
-                };
-                Response.Cookies.Add(roleCookie);
-            }
-
-            LogHelper.LogInformation("El usuario cerró sesión.");
-            return RedirectToAction("Login", "Account");
         }
     }
 }

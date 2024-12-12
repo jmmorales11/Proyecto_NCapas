@@ -63,3 +63,16 @@ C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Proyect
 C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
 C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
 C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\ProyectoProxyService.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\SLC.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\SLC.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\obj\Debug\Proyecto.6073778A.Up2Date
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\ProyectoProxyService\obj\Debug\ProyectoProxyService.pdb

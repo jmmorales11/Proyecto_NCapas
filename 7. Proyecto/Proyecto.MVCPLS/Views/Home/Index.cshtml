@@ -111,7 +111,9 @@
     <!-- Navbar -->
     <div class="navbar">
         <h1>Sistema Empresarial</h1>
-        <button class="login-btn">Login</button>
+        <form action="@Url.Action("Logout", "Home")" method="post" style="margin: 0;">
+            <button class="login-btn" type="submit">Cerrar Sesión</button>
+        </form>
     </div>
 
     <!-- Main Content -->
