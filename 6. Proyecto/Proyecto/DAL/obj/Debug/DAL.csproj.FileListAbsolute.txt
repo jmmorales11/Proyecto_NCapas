@@ -26,3 +26,17 @@ D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\6. Proyecto\
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.dll
 D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\DAL.dll.config
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\DAL\obj\Debug\DAL.pdb

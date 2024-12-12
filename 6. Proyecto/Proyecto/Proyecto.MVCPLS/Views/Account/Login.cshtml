@@ -101,15 +101,17 @@
             </div>
             <button type="submit" class="btn">Validar Código</button>
         </form>
-
+        <div class="create-account-link">
+            <a href="@Url.Action("AddUser", "User")">Crear cuenta</a>
+        </div>
         <!-- Formulario para ingresar código de verificación -->
         <!--   <form id="verifyForm" onsubmit="handleVerification(event)" style="display:none;">
-           <div class="form-group">
-               <label for="verificationCode">Código de Verificación:</label>
-               <input type="text" id="verificationCode" name="verificationCode" placeholder="Ingrese el código" required />
-           </div>
-           <button type="submit" class="btn">Validar Código</button>
-       </form> -->
+        <div class="form-group">
+            <label for="verificationCode">Código de Verificación:</label>
+            <input type="text" id="verificationCode" name="verificationCode" placeholder="Ingrese el código" required />
+        </div>
+        <button type="submit" class="btn">Validar Código</button>
+    </form> -->
     </div>
 
     <script>
@@ -145,8 +147,9 @@
 
             if (response.ok && data.RequiresVerification) {
                 // Mostrar el formulario de verificación
-                document.getElementById('loginForm').style.display = 'none';
-                document.getElementById('verifyForm').style.display = 'block';
+                //document.getElementById('loginForm').style.display = 'none';
+                //document.getElementById('verifyForm').style.display = 'block';
+                window.location.href = '/Home/Index';
             } else {
                 // Mostrar mensaje de error de forma segura
                 const errorMessage = document.getElementById('error-message');

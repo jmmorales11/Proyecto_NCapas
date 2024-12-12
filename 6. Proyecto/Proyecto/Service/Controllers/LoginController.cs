@@ -41,15 +41,9 @@ namespace Service.Controllers
                 // Intentar autenticar al usuario
                 var user = BL.Authenticate(loginRequest.Email, loginRequest.Password);
 
-                // Generar código de verificación
-                var random = new Random();
-                string verificationCode = random.Next(1000, 9999).ToString();
-
-                // Guardar el código en un diccionario temporal
-                VerificationCodes[loginRequest.Email] = verificationCode;
 
                 // Enviar correo con el código
-                body1 = $"Se registró un inicio de sesión. Tu código de verificación es: {verificationCode}";
+                body1 = $"Se registró un inicio de sesión. ";
                 await _emailService.SendEmailAsync(recipientEmail, subject1, body1);
 
                 return Ok(new
