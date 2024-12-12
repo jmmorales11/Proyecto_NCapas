@@ -278,5 +278,122 @@ namespace Proyecto.MVCPLS.Controllers
                 return false;
             }
         }
+
+
+
+        /////////////////////////////RECUPERAR CONTRASEÑA
+        ///
+        public ActionResult ForgotPassword()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public async Task<ActionResult> ForgotPassword(string email)
+        {
+            if (string.IsNullOrEmpty(email) || !IsValidEmail(email))
+            {
+                return Json(new { success = false, message = "Correo electrónico inválido." });
+            }
+
+            var proxy = new Proxy();
+            var user = proxy.GetUserByEmail(email);
+
+            if (user == null)
+            {
+                return Json(new { success = false, message = "No se encontró ningún usuario con ese correo electrónico." });
+            }
+
+            // Generar código de verificación
+            var random = new Random();
+            string securityCode = random.Next(1000, 9999).ToString();
+            string subject = "Recuperación de contraseña";
+            string body = $"Tu código de verificación es: {securityCode}";
+
+            try
+            {
+                await _emailService.SendEmailAsync(email, subject, body);
+
+                // Guardar datos en la sesión
+                Session["SecurityCode"] = securityCode;
+                Session["UserIdToReset"] = user.UserID;
+
+                return Json(new { success = true, message = "Código enviado a tu correo." });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = $"Error al enviar el correo: {ex.Message}" });
+            }
+        }
+
+
+        [HttpPost]
+        public ActionResult VerifyResetCode(string enteredCode)
+        {
+            var storedCode = Session["SecurityCode"] as string;
+            var userIdToReset = Session["UserIdToReset"] as int?;
+
+            if (storedCode == enteredCode && userIdToReset.HasValue)
+            {
+                return Json(new { success = true, userId = userIdToReset.Value });
+            }
+
+            return Json(new { success = false, message = "El código ingresado es incorrecto." });
+        }
+        public ActionResult EdidLog(int id)
+        {
+            LogHelper.LogInformation($"Consultando usuario con ID: {id} para edición.");
+            var proxy = new Proxy();
+
+            var user = proxy.RetrieveUserByID(id);
+            if (user == null)
+            {
+                LogHelper.LogWarning($"No se encontró el usuario con ID: {id}.");
+                return HttpNotFound();
+            }
+            return View(user);
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult EdidLog(User user)
+        {
+            var proxy = new Proxy();
+
+            if (ModelState.IsValid)
+            {
+                // Registrar en los logs y actualizar el usuario
+                LogHelper.LogInformation($"Actualizando usuario con ID: {user.UserID}.");
+                bool result = proxy.UpdateUser(user);
+
+                if (result)
+                {
+                    LogHelper.LogInformation("Usuario actualizado exitosamente.");
+                    TempData["SuccessMessage"] = "Usuario actualizado exitosamente.";
+                    return RedirectToAction("Login", "Account"); // Redirige a Login
+                }
+                else
+                {
+                    LogHelper.LogWarning("Error al actualizar el usuario.");
+                    TempData["ErrorMessage"] = "Error al actualizar el usuario.";
+                }
+            }
+            else
+            {
+                // Si el modelo no es válido, registrar los errores
+                LogHelper.LogWarning("Modelo no válido para la actualización.");
+                TempData["ErrorMessage"] = "Por favor, corrija los errores antes de continuar.";
+            }
+
+            // Si hay errores, devolver la misma vista con el modelo actual
+            return View(user);
+        }
+
+
+
+
+
     }
 }

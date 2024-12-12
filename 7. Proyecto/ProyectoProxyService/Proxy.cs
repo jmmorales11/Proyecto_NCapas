@@ -200,5 +200,17 @@ namespace ProyectoProxyService
         {
             throw new NotImplementedException();
         }
+
+        public User GetUserByEmail(string email)
+        {
+            // Escapar el email para asegurarse de que caracteres especiales sean manejados correctamente
+            string encodedEmail = Uri.EscapeDataString(email);
+
+            // Construir la URL con el parámetro de consulta
+            string requestUri = $"/user/filter-user-email?email={encodedEmail}";
+
+            // Hacer la solicitud GET
+            return Task.Run(async () => await SendGet<User>(requestUri)).Result;
+        }
     }
 }

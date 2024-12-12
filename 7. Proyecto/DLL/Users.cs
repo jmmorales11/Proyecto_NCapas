@@ -183,6 +183,25 @@ namespace BLL
 
             return true;
         }
+        //buscar por email
+        public User GetUserByEmail(string email)
+        {
+            User Result = null;
+            using (var r = RepositoryFactory.CreateRepository())
+            {
+                // Recuperar el usuario por correo electrónico
+                Result = r.Retrieve<User>(u => u.Email == email);
+            }
+
+            if (Result == null)
+            {
+                // Si no se encuentra el usuario, puedes lanzar una excepción o devolver null
+                throw new Exception("Usuario no encontrado.");
+            }
+
+            return Result;
+        }
+
 
     }
 }

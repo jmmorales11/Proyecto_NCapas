@@ -57,5 +57,14 @@ namespace Service.Controllers
             var Result = BL.Update(UserToUpdate);
             return Result;
         }
+
+        [HttpGet]
+        [Route("filter-user-email")]
+        public User GetUserByEmail([FromUri] string email)
+        {
+            var BL = new Users();
+            var Result = BL.GetUserByEmail(email);
+            return Result;
+        }
     }
 }

@@ -97,6 +97,12 @@
                 @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Ingrese su contraseña", @required = "required" })
             </div>
             <button type="submit" class="btn">Iniciar Sesión</button>
+            <div class="create-account-link">
+                <a href="@Url.Action("AddUser", "User")">Crear cuenta</a>
+            </div>
+            <div class="create-account-link">
+                <a href="@Url.Action("ForgotPassword", "User")">Recuperar contraseña</a>
+            </div>
         }
     </div>
 </body>
