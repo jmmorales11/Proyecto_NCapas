@@ -14,5 +14,6 @@ namespace SLC
         bool UpdateUser(User UserToUpdate);
         bool DeleteUser(int ID);
         List<User> GetUsers();
+        User GetUserByEmail(string email);
     }
 }
