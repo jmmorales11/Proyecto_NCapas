@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Desktop\\ProyectoCapaSecurity\\6. Proyecto\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyectocapasecurity\\6. proyecto\\proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyectocapasecurity\\6. proyecto\\proyecto\\proyecto.mvcpls\\filters\\roleauthorizeattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\filters\\roleauthorizeattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleAuthorizeAttribute .cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\ProyectoCapaSecurity\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Filters\\RoleAuthorizeAttribute .cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Filters\\RoleAuthorizeAttribute .cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\ProyectoCapaSecurity\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Filters\\RoleAuthorizeAttribute .cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Filters\\RoleAuthorizeAttribute .cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:23:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\ProyectoCapaSecurity\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\ProyectoCapaSecurity\\6. Proyecto\\Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAADwv7cAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:17:03.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
