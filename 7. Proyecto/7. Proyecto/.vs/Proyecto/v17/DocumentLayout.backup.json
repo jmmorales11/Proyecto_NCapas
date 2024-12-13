@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\asus tuf a15\\downloads\\borrador\\entregablre\\7. proyecto-20241213t115327z-001\\7. proyecto\\7. proyecto\\proyecto.mvcpls\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|c:\\users\\asus tuf a15\\downloads\\borrador\\entregablre\\7. proyecto-20241213t115327z-001\\7. proyecto\\7. proyecto\\service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2619136-E8A0-4807-B9A3-17C57BD78133}|Service\\Service.csproj|solutionrelative:service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA2AF97-5274-4930-BEFE-6F9FCDD62EC7}|DAL\\DAL.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BA2AF97-5274-4930-BEFE-6F9FCDD62EC7}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\verifyresetcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\verifyresetcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\edidlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\edidlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\proyecto.mvcpls\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067360F1-31EC-4027-A302-B009424B562C}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T01:44:25.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T13:19:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Service\\Web.config",
+              "RelativeDocumentMoniker": "Service\\Web.config",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Service\\Web.config",
+              "RelativeToolTip": "Service\\Web.config",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAA+AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-13T12:10:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-13T12:09:15.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:24:45.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:24:10.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EdidLog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:23:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:22:05.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvy0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:20:55.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:51:57.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAiwPUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:42:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:25:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwHMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:33:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VerifyResetCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:24:52.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:25:10.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:21:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:41:50.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:41:34.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:41:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\List.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\List.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\List.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\List.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:09:20.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:04:18.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowFAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:43:57.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:44:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF A15\\Downloads\\Borrador\\entregablre\\7. Proyecto-20241213T115327Z-001\\7. Proyecto\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwLkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:44:43.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

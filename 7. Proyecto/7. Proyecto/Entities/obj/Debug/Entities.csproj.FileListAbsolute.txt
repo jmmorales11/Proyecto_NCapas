@@ -1,0 +1,54 @@
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Entities\bin\Debug\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Entities\bin\Debug\Entities.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Entities\obj\Debug\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\Entities\obj\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\bin\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\bin\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\repositorio\Proyecto_NCapas\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\bin\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\bin\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\ProyectoCapaSecurity\6. Proyecto\Proyecto\Entities\obj\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\bin\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\bin\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\NEW\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\bin\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\bin\Debug\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\obj\Debug\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\Proyecto_Ultimo\7. Proyecto\Entities\obj\Debug\Entities.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\bin\Debug\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\bin\Debug\Entities.pdb
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\bin\Debug\System.ComponentModel.Annotations.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.csproj.Up2Date
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.dll
+D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\Proyecto_NCapas\7. Proyecto\Entities\obj\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\bin\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\bin\Debug\Entities.pdb
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\obj\Debug\Entities.dll
+C:\Users\ASUS TUF A15\Downloads\Borrador\entregablre\7. Proyecto-20241213T115327Z-001\7. Proyecto\7. Proyecto\Entities\obj\Debug\Entities.pdb

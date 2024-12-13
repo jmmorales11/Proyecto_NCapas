@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Verificar Código";
+}
+
+<div class="form-container">
+    <h2>Verificar Código</h2>
+
+    <form id="verifyCodeForm" method="post" action="@Url.Action("VerifyResetCode", "User")">
+        <div class="form-group">
+            <label for="code">Código de Verificación</label>
+            <input type="text" id="code" name="enteredCode" class="form-control" required />
+        </div>
+
+        <div class="form-buttons">
+            <button type="submit" class="btn minimal-btn" onclick="handleSubmit(event)">Verificar</button>
+            <a href="@Url.Action("ForgotPassword", "User")" class="btn minimal-btn-cancel">Cancelar</a>
+        </div>
+    </form>
+</div>
+<script>
+// Función para escapar caracteres especiales
+    function escapeHTML(str) {
+        return str.replace(/[&<>"']/g, function (char) {
+            return {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            }[char];
+        });
+    }
+
+    function handleSubmit(event) {
+        event.preventDefault(); // Evitar el envío del formulario
+
+        const code = escapeHTML(document.getElementById('code').value);
+
+        // Asignar los valores escapados a los campos del formulario
+        document.getElementById('code').value = code;
+        // Enviar el formulario
+        event.target.form.submit();
+    }</script>

@@ -1,0 +1,243 @@
+﻿@model Entities.User
+
+@{
+    ViewBag.Title = "Agregar Usuario";
+}
+
+<div class="form-container">
+    <h2>Agregar Nuevo Usuario</h2>
+
+    <!-- Formulario para completar el registro -->
+    <form id="registrationForm" method="post" action="@Url.Action("CreateUser", "User")">
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            <label>Correo Electrónico</label>
+            <input type="email" id="email" name="Email" class="form-control" placeholder="Correo electrónico" required />
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, "Nombre usuario", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.UserName, new { @class = "form-control minimal-input" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PasswordHash, "Contraseña", htmlAttributes: new { @class = "form-label" })
+            @Html.PasswordFor(model => model.PasswordHash, new { @class = "form-control minimal-input" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Role, "Rol", htmlAttributes: new { @class = "form-label" })
+            @Html.DropDownListFor(model => model.Role,
+                new SelectList(new List<string> { "Admin", "Editor", "Viewer" }),
+                "Selecciona un rol",
+                new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group" style="display: none;">
+            @Html.LabelFor(model => model.Status, "Estado", htmlAttributes: new { @class = "form-label" })
+            @Html.CheckBoxFor(model => model.Status, new { @checked = "checked" })
+        </div>
+
+        <div class="form-buttons">
+            <button type="button" class="btn minimal-btn" onclick="submitForm()">Crear Usuario</button>
+        </div>
+        <div class="form-buttons">
+            <button type="button" class="btn minimal-btn" onclick="redirectToLogin()">Regresar</button>
+        </div>
+
+
+    </form>
+</div>
+
+<!-- Modal para Verificar Código -->
+<div id="verifyCodeModal" class="modal" style="display:none;">
+    <div class="modal-content">
+        <h3>Verificar Código</h3>
+        <p>Introduce el código que se envió a tu correo.</p>
+        <div class="form-group">
+            <input type="text" id="verificationCode" class="form-control" placeholder="Código de verificación" required />
+        </div>
+        <div class="form-buttons">
+            <button type="button" class="btn minimal-btn" onclick="verifyCode()">Verificar</button>
+            <button type="button" class="btn minimal-btn-cancel" onclick="closeModal()">Cancelar</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    function escapeHTML(str) {
+        return str.replace(/[&<>"']/g, function (char) {
+            return {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            }[char];
+        });
+    }
+    function redirectToLogin() {
+        // Redirige al usuario a la página de inicio de sesión
+        window.location.href = '@Url.Action("Login", "Account")';
+    }
+    function submitForm() {
+        const email = escapeHTML(document.getElementById("email").value);
+        document.getElementById('email').value = email;
+
+        fetch('@Url.Action("SendVerificationCode", "User")', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email: email })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                document.getElementById("verifyCodeModal").style.display = "flex";
+            } else {
+                alert(data.message);
+            }
+        });
+    }
+
+    function verifyCode() {
+        const code = escapeHTML(document.getElementById("verificationCode").value);
+        document.getElementById('verificationCode').value = code;
+
+        fetch('@Url.Action("VerifySecurityCode", "User")', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ enteredCode: code })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                
+
+                const form = document.getElementById("registrationForm");
+                const formData = new FormData(form);
+
+                fetch('@Url.Action("CreateUser", "User")', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(result => {
+                    if (result.success) {
+                       // alert("Usuario creado exitosamente.");
+                        window.location.href = '@Url.Action("Login", "Account")';
+                    } else {
+                        alert(result.message);
+                    }
+                });
+            } else {
+                alert(data.message);
+            }
+        });
+    }
+
+    function closeModal() {
+        document.getElementById("verifyCodeModal").style.display = "none";
+    }
+</script>
+
+
+
+
+<style>
+
+    .modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+    }
+
+    .modal-content {
+        background: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        width: 400px;
+        text-align: center;
+    }
+
+    .modal .form-buttons {
+        margin-top: 20px;
+    }
+    /* Incluye aquí tu estilo para el formulario */
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px;
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-label {
+        font-weight: 500;
+        color: #555;
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+    }
+
+    .form-buttons {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        border-radius: 4px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .minimal-btn {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .minimal-btn-cancel {
+        background-color: #ccc;
+        color: #333;
+    }
+</style>

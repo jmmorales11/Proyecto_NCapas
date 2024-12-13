@@ -1,0 +1,197 @@
+﻿@model Entities.User
+
+@{
+    ViewBag.Title = "Crear Usuario";
+}
+
+<div class="form-container">
+    <h2>Crear Usuario</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, "Nombre usuario", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.UserName, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email,  htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PasswordHash, "Contraseña", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.PasswordHash, new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.PasswordHash, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Role, "Rol", htmlAttributes: new { @class = "form-label" })
+            @Html.DropDownListFor(model => model.Role,
+                new SelectList(new List<string> { "Admin", "Editor", "Viewer" }),
+                "Selecciona un rol",
+                new { @class = "form-control minimal-input" })
+            @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreatedAt, "Fecha de creación", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.CreatedAt,
+                new { @class = "form-control minimal-input", type = "datetime-local", id = "CreatedAt" })
+            @Html.ValidationMessageFor(model => model.CreatedAt, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "form-label" })
+            @Html.CheckBoxFor(model => model.Status)
+            @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-buttons">
+            <button type="submit" class="btn minimal-btn" onclick="handleSubmit(event)">Crear</button>
+            <a href="@Url.Action("List")" class="btn minimal-btn-cancel">Cancelar</a>
+        </div>
+    }
+</div>
+<script>// Función para escapar caracteres especiales
+
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const now = new Date();
+        const formattedDate = now.toISOString().slice(0, 16); // Formato para el campo datetime-local
+        const createdAtInput = document.getElementById('CreatedAt');
+
+        // Solo asignar la fecha actual si el campo está vacío
+        if (!createdAtInput.value) {
+            createdAtInput.value = formattedDate;
+        }
+    });
+
+    function escapeHTML(str) {
+        return str.replace(/[&<>"']/g, function (char) {
+            return {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            }[char];
+        });
+    }
+
+    function handleSubmit(event) {
+        event.preventDefault(); // Evitar el envío del formulario
+
+        const userName = escapeHTML(document.getElementById('UserName').value);
+        const email = escapeHTML(document.getElementById('Email').value);
+        const passwordHash = escapeHTML(document.getElementById('PasswordHash').value);
+        const role = escapeHTML(document.getElementById('Role').value);
+        const createdAt = escapeHTML(document.getElementById('CreatedAt').value);
+        const status = escapeHTML(document.getElementById('Status').value);
+
+        // Asignar los valores escapados a los campos del formulario
+        document.getElementById('UserName').value = userName;
+        document.getElementById('Email').value = email;
+        document.getElementById('PasswordHash').value = passwordHash;
+        document.getElementById('Role').value = role;
+        document.getElementById('CreatedAt').value = createdAt;
+        document.getElementById('Status').value = status;
+
+        // Enviar el formulario
+        event.target.form.submit();
+    }</script>
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+        height: 100vh; /* Hacer que la altura del cuerpo ocupe toda la pantalla */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px; /* Limitar el ancho máximo del formulario */
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-label {
+        font-weight: 500;
+        color: #555;
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background-color: #fff;
+        font-size: 14px;
+    }
+
+        .form-control:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+    .minimal-input {
+        margin-top: 5px;
+    }
+
+    .form-buttons {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+        text-decoration: none;
+        display: inline-block;
+        transition: background-color 0.3s ease;
+    }
+
+    .minimal-btn {
+        background-color: #007bff;
+        color: #fff;
+        margin-right: 10px;
+    }
+
+        .minimal-btn:hover {
+            background-color: #0056b3;
+        }
+
+    .minimal-btn-cancel {
+        background-color: #ccc;
+        color: #333;
+    }
+
+        .minimal-btn-cancel:hover {
+            background-color: #999;
+        }
+</style>
