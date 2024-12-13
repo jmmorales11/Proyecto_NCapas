@@ -1,9 +1,0 @@
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\bin\Debug\SLC.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\bin\Debug\SLC.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\bin\Debug\Entities.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\bin\Debug\Entities.pdb
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.csproj.Up2Date
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.dll
-D:\7. Septimo Semestre\3. Aplicaciones Distribuidas\4. Proyecto\Proyecto\SLC\obj\Debug\SLC.pdb
