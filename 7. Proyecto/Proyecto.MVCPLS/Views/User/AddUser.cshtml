@@ -58,8 +58,21 @@
 </div>
 
 <script>
+    function escapeHTML(str) {
+        return str.replace(/[&<>"']/g, function (char) {
+            return {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            }[char];
+        });
+    }
+
     function submitForm() {
-        const email = document.getElementById("email").value;
+        const email = escapeHTML(document.getElementById("email").value);
+        document.getElementById('email').value = email;
 
         fetch('@Url.Action("SendVerificationCode", "User")', {
             method: 'POST',
@@ -77,7 +90,8 @@
     }
 
     function verifyCode() {
-        const code = document.getElementById("verificationCode").value;
+        const code = escapeHTML(document.getElementById("verificationCode").value);
+        document.getElementById('verificationCode').value = code;
 
         fetch('@Url.Action("VerifySecurityCode", "User")', {
             method: 'POST',

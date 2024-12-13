@@ -1,21 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\",
+  "WorkspaceRootPath": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ultimo\\7. proyecto\\proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\sl\\logger\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F871FF-4214-4951-AB7B-F439C3290D34}|SL\\SL.csproj|solutionrelative:sl\\logger\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\verifyresetcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\verifyresetcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\edidlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\edidlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|d:\\aplicaciones_distribuidas\\proyecto_ncapas\\version_12_12_2\\proyecto_ncapas\\7. proyecto\\proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ultimo\\7. proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ultimo\\7. proyecto\\proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|c:\\users\\sebas\\onedrive\\desktop\\proyecto_ultimo\\7. proyecto\\proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F01E102-2C9D-4E6D-A9FE-F8AC2B6C9803}|Proyecto.MVCPLS\\Proyecto.MVCPLS.csproj|solutionrelative:proyecto.mvcpls\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,79 +74,220 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\SL\\Logger\\LogHelper.cs",
+              "RelativeDocumentMoniker": "SL\\Logger\\LogHelper.cs",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\SL\\Logger\\LogHelper.cs",
+              "RelativeToolTip": "SL\\Logger\\LogHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:02:55.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerifyResetCode.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\VerifyResetCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T00:00:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:59:09.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\ForgotPassword.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:53:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EdidLog.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\EdidLog.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:57:29.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:52:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\AddUser.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:54:16.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:53:32.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:52:23.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:51:57.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:51:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.MVCPLS\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:50:30.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T23:33:38.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T23:33:05.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T23:33:05.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T23:11:22.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T23:11:22.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Desktop\\Proyecto_Ultimo\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\aplicaciones_distribuidas\\Proyecto_NCapas\\version_12_12_2\\Proyecto_NCapas\\7. Proyecto\\Proyecto.MVCPLS\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Proyecto.MVCPLS\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAD4v0cAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T23:06:06.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T23:06:06.66Z"
             }
           ]
         }

@@ -46,11 +46,43 @@
         </div>
 
         <div class="form-buttons">
-            <button type="submit" class="btn minimal-btn">Actualizar</button>
+            <button type="submit" class="btn minimal-btn" onclick="handleSubmit(event)">Actualizar</button>
             <a href="@Url.Action("List")" class="btn minimal-btn-cancel">Cancelar</a>
         </div>
     }
 </div>
+<script>// Función para escapar caracteres especiales
+    function escapeHTML(str) {
+        return str.replace(/[&<>"']/g, function (char) {
+            return {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            }[char];
+        });
+    }
+
+    function handleSubmit(event) {
+        event.preventDefault(); // Evitar el envío del formulario
+
+        const productName = escapeHTML(document.getElementById('ProductName').value);
+        const categoryID = escapeHTML(document.getElementById('CategoryID').value);
+        const unitPrice = escapeHTML(document.getElementById('UnitPrice').value);
+        const unitsInStock = escapeHTML(document.getElementById('UnitsInStock').value);
+        const userID = escapeHTML(document.getElementById('UserID').value);
+
+        // Asignar los valores escapados a los campos del formulario
+        document.getElementById('CategoryName').value = productName;
+        document.getElementById('CategoryID').value = categoryID;
+        document.getElementById('UnitPrice').value = unitPrice;
+        document.getElementById('UnitsInStock').value = unitsInStock;
+        document.getElementById('UserID').value = userID;
+
+        // Enviar el formulario
+        event.target.form.submit();
+    }</script>
 <style>
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
